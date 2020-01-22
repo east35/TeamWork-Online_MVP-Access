@@ -1,4 +1,20 @@
 ---
+mvpTestimonialHeading:
+- sys:
+    id: 6YEalbPZzfZb7sxZU1NWZt
+    created_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
+    content_type_id: mvpTestimonialHeading
+    revision: 1
+  title: Loved by over 12,000 people
+mvpFeatureHeading:
+- sys:
+    id: 48UPoxiSVATM8lbtCYDTG
+    created_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
+    content_type_id: mvpFeatureHeading
+    revision: 1
+  title: The three things you need to succeed
 mvpTestimonial:
 - sys:
     id: 4UE2hU31cvNlgH1Klahcfd

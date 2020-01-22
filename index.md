@@ -33,7 +33,8 @@ cta:
  
 <section class="bg-black py4">
 <div class="container mx-auto">
-<h3 class="white h3 oswald caps center py2">The three things you need to succeed</h3>
+{% assign item = site.data.posts.mvpFeatureHeading[0] %}
+<h3 class="white h3 oswald caps center py2">{{ item.title }}</h3>
 <div class="flex flex-wrap center">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
@@ -54,7 +55,8 @@ cta:
 
 <section class="py4">
 <div class="container mx-auto">
-<h3 class="black h3 oswald caps center py2">The three things you need to succeed</h3>
+{% assign item = site.data.posts.mvpTestimonialHeading[0] %}
+<h3 class="black h3 oswald caps center py2">{{ item.title }}</h3>
 <div class="flex flex-wrap">
 {% assign mvpTestimonial = site.data.posts.mvpTestimonial | sort: 'sort' %}
 {% for item in mvpTestimonial %}
