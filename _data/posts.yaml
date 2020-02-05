@@ -1,29 +1,74 @@
 ---
-mvpTestimonialHeading:
-- sys:
-    id: 6YEalbPZzfZb7sxZU1NWZt
-    created_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
-    content_type_id: mvpTestimonialHeading
-    revision: 1
-  title: Loved by over 12,000 people
-mvpFeatureHeading:
-- sys:
-    id: 48UPoxiSVATM8lbtCYDTG
-    created_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
-    content_type_id: mvpFeatureHeading
-    revision: 1
-  title: The three things you need to succeed
 mvpTestimonial:
+- sys:
+    id: 3twEuV929m1QPbCViI9kJH
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:36.286000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:10:44.401000000 Z
+    content_type_id: mvpTestimonial
+    revision: 2
+  name: Madelyn Glista (1)
+  quote: 'I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool. '
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: ff851b
+- sys:
+    id: 5KxRfhcUtg7YhIOk6lULnU
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:40.128000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:10:37.812000000 Z
+    content_type_id: mvpTestimonial
+    revision: 2
+  name: Madelyn Glista (2)
+  quote: 'I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool. '
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: 001f3f
+- sys:
+    id: 12LaFXtT66QXjUGmJGn256
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:43.153000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:10:25.548000000 Z
+    content_type_id: mvpTestimonial
+    revision: 2
+  name: Madelyn Glista (3)
+  quote: 'I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool. '
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: f012be
 - sys:
     id: 4UE2hU31cvNlgH1Klahcfd
     created_at: !ruby/object:DateTime 2020-01-22 18:09:11.355000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:09:11.355000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:07:58.495000000 Z
     content_type_id: mvpTestimonial
-    revision: 1
-  name: Test (2)
-  quote: Test
+    revision: 4
+  name: Madelyn Glista
+  quote: 'I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool. '
   image:
     sys:
       id: 2nHXQRonQv7RGMQVgp831f
@@ -32,15 +77,18 @@ mvpTestimonial:
     title: anthony
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: Test
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: 006BB6
 - sys:
     id: EeHwb4RSiufXopsLdRixN
     created_at: !ruby/object:DateTime 2020-01-22 18:06:57.796000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:06:57.796000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:07:45.525000000 Z
     content_type_id: mvpTestimonial
-    revision: 1
-  name: Test (1)
-  quote: Test
+    revision: 4
+  name: Joseph Redmond
+  quote: Being able to have my resume viewed first as well as knowing how many people
+    I was up against really helped me during the hiring process with NYCFC.
   image:
     sys:
       id: 2nHXQRonQv7RGMQVgp831f
@@ -49,15 +97,18 @@ mvpTestimonial:
     title: anthony
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: Test
+  desc: 'Senior Manager, Ticket Sales, NYCFC '
+  hex_color: CE1141
 - sys:
     id: 5uHhWRqQpjsQKSd6It37jC
     created_at: !ruby/object:DateTime 2020-01-22 18:04:55.966000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:04:55.967000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 17:07:27.714000000 Z
     content_type_id: mvpTestimonial
-    revision: 1
-  name: Test
-  quote: Test
+    revision: 4
+  name: Anthony Tate
+  quote: MVP Access is the best in the business. I graduated from Ohio University
+    this past spring and started to apply to jobs and I’m sure because of MVP Access
+    I got the phone call from my current employer.
   image:
     sys:
       id: 2nHXQRonQv7RGMQVgp831f
@@ -66,100 +117,144 @@ mvpTestimonial:
     title: anthony
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: Test
-mvpFeatureCard:
-- sys:
-    id: rmdD3RNi5tcVtWrGkGqRY
-    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 1
-  image:
-    sys:
-      id: mSmIQNy05gkwvqhMCjhkR
-      created_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-    title: mega-phone
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/mSmIQNy05gkwvqhMCjhkR/4c559c4d29d6913337439f53359f4da0/mega-phone.svg"
-  name: Industry Information & Professional Tips
-  desc: Let us help make you a better potential employee. Learn from employers, online
-    hires, and our founder, Buffy Filippell, how to present yourself better.
-- sys:
-    id: 3MM5iFHytTKeKW7VIn6gt3
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 1
-  image:
-    sys:
-      id: mSmIQNy05gkwvqhMCjhkR
-      created_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-    title: mega-phone
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/mSmIQNy05gkwvqhMCjhkR/4c559c4d29d6913337439f53359f4da0/mega-phone.svg"
-  name: Know When Your Application Is Viewed
-  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
-    application. '
-- sys:
-    id: 4ySziV13yxn7PtJXXh3qH7
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 1
-  image:
-    sys:
-      id: mSmIQNy05gkwvqhMCjhkR
-      created_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-    title: mega-phone
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/mSmIQNy05gkwvqhMCjhkR/4c559c4d29d6913337439f53359f4da0/mega-phone.svg"
-  name: Move to the top of the recruiter's list
-  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
-    to the top of their list. '
+  desc: Ticket Sales Manager, Chicagoland Speedway
+  hex_color: '002244'
 mvpHeader:
 - sys:
     id: 2RWIXBPoa1aZXHsDpgxJ1V
     created_at: !ruby/object:DateTime 2020-01-21 22:12:25.851000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 17:33:04.864000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 16:59:51.242000000 Z
     content_type_id: mvpHeader
-    revision: 4
+    revision: 6
   header_title: Increase your chances of getting hired by 3X
-  header_desc: '"We know job candidates are always looking for ways to improve their
-    odds of getting hired. We created MVP Access to offer job applicants coaching,
-    education and tools that have raised candidates'' chances of getting the job they
-    want." - Buffy Filippell, CEO of TeamWork Online'
+  header_desc: |-
+    "We created MVP Access to offer job applicants coaching, education and tools that have raised candidates' chances of getting the job they want."
+
+    - Buffy Filippell, CEO of TeamWork Online
   monthly_fee: '5'
   activation_fee: '59.99'
   todays_total: '64.99'
-atsPage:
+mvpFeatureCard:
 - sys:
-    id: 4XA3DTqTp2BcaZGFuUXGoO
-    created_at: !ruby/object:DateTime 2019-11-27 17:01:10.474000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 16:12:24.584000000 Z
-    content_type_id: atsPage
-    revision: 2
-  title: Online ATS
-  desc: TeamWork provides an applicant management system to post jobs, review, compound,
-    turn-off candidates and manage the complete recruiting process within the system.
+    id: 3MM5iFHytTKeKW7VIn6gt3
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 16:15:40.991000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 3
   image:
     sys:
-      id: 4IzmknZhK2eggDjhuZxMZc
-      created_at: !ruby/object:DateTime 2020-01-22 16:12:11.891000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-22 16:12:11.891000000 Z
-    title: laptop-tablet-combo
+      id: 22e7B4pks4O44AvNKufWGZ
+      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
+    title: '2'
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4IzmknZhK2eggDjhuZxMZc/ee852baf1f9d311129a5468ec8b33b01/laptop-tablet-combo.jpg"
-  cta: Contact us about an annual license
-atsProduct:
+    url: "//images.ctfassets.net/utl7jk5xzwje/22e7B4pks4O44AvNKufWGZ/3648f2fd000c44cdd7cb50422d35ec41/2.svg"
+  name: Know When Your Application Is Viewed
+  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
+    application. '
+  order: 2
 - sys:
-    id: 7hemE26j3yD3DxRXqR7SXY
-    created_at: !ruby/object:DateTime 2019-11-27 16:59:57.819000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:56:55.866000000 Z
-    content_type_id: atsProduct
-    revision: 2
+    id: 4ySziV13yxn7PtJXXh3qH7
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 16:15:32.105000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 3
+  image:
+    sys:
+      id: 5xCPA3at9TvnLAdyzXC8eT
+      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.867000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.867000000 Z
+    title: '3'
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5xCPA3at9TvnLAdyzXC8eT/9776dc3c7d1739ff8a3ce27da46745ca/3.svg"
+  name: Move to the top of the recruiter's list
+  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
+    to the top of their list. '
+  order: 3
+- sys:
+    id: rmdD3RNi5tcVtWrGkGqRY
+    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-05 16:15:26.800000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 3
+  image:
+    sys:
+      id: F0FD8AHnyI6hyg0MsIidC
+      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
+    title: '1'
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/F0FD8AHnyI6hyg0MsIidC/8bcbd97dadc84780adbceed26a8f4927/1.svg"
+  name: Industry Information & Professional Tips
+  desc: Let us help make you a better potential employee. Learn from employers, online
+    hires, and our founder, Buffy Filippell, how to present yourself better.
+  order: 1
+productLink:
+- sys:
+    id: 2fDRWXvLvYgOTcZydqy6o7
+    created_at: !ruby/object:DateTime 2019-11-27 16:39:48.453000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-03 20:37:52.432000000 Z
+    content_type_id: productLink
+    revision: 10
+  icon:
+    sys:
+      id: 3bLaaaiACkiMBxKOy1H2ee
+      created_at: !ruby/object:DateTime 2019-11-27 16:39:45.161000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:39:45.161000000 Z
+    title: tools-alt-2
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/3bLaaaiACkiMBxKOy1H2ee/1ca6172e5eae279e3bb5e4c8384254a5/tools-alt-2.svg"
+  name: TeamWork Recruiter
+  desc: Let our proprietary recruiting system do the recruiting for you
+  cta: View Tools
+  url: https://teamworkonline.com/pages/employer-tools
+  order_override: 1
+- sys:
+    id: GF8H9Dh7tQ48OTsyxj1kk
+    created_at: !ruby/object:DateTime 2019-11-27 16:41:42.181000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-03 20:36:31.209000000 Z
+    content_type_id: productLink
+    revision: 7
+  icon:
+    sys:
+      id: 4dF0qx6YItF3PafpJ2RYD6
+      created_at: !ruby/object:DateTime 2019-11-27 16:41:39.740000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:41:39.740000000 Z
+    title: addons
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/4dF0qx6YItF3PafpJ2RYD6/dcec54a77b4b1ab9339744412696a8e6/addons.svg"
+  name: Special Features & Products
+  desc: Access TeamWork’s proprietary tools to find diverse and qualified candidates
+    both inside and outside your network
+  cta: View Features
+  url: https://www.teamworkonline.com/pages/special-features
+  order_override: 3
+- sys:
+    id: 5mmoZP2wT0QpzZUnM1cwe9
+    created_at: !ruby/object:DateTime 2019-11-27 16:40:58.686000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-03 20:34:48.115000000 Z
+    content_type_id: productLink
+    revision: 7
+  icon:
+    sys:
+      id: 3qZ9xFgCMTg5FW4A2OvojR
+      created_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
+    title: users-alt-3
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/3qZ9xFgCMTg5FW4A2OvojR/2d18a15fdcca25648efdada2e66077d0/users-alt-3.svg"
+  name: Applicant Tracking System
+  desc: Everything stays in one place, our integrated system helps you stay organized.
+  cta: View ATS
+  url: https://teamworkonline.com/pages/ats
+  order_override: 2
+featureCard:
+- sys:
+    id: 4bB5m6zEk7434JHcjanJRi
+    created_at: !ruby/object:DateTime 2019-11-27 17:06:08.279000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:43:43.107000000 Z
+    content_type_id: featureCard
+    revision: 5
   image:
     sys:
       id: 7I8RZDmGFdge4MHdI825bF
@@ -168,206 +263,69 @@ atsProduct:
     title: text-tenderimage
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/7I8RZDmGFdge4MHdI825bF/078897174fc83611a8686ab50a23ff85/Screen_Shot_2020-01-21_at_12.38.31_PM.png"
-  title: TextTender
-  desc: Recommend text to engage future applicants and avoid implicit bias on your
-    job description wording.
-- sys:
-    id: 4KS9wgPmbj1gQ5bqnDa0jr
-    created_at: !ruby/object:DateTime 2019-11-27 16:59:34.270000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:34:09.140000000 Z
-    content_type_id: atsProduct
-    revision: 3
-  image:
-    sys:
-      id: 16o0rmHGtY05WafUfYIQId
-      created_at: !ruby/object:DateTime 2020-01-20 03:34:03.654000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 03:34:03.654000000 Z
-    title: HR-Job-Reports
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/16o0rmHGtY05WafUfYIQId/241c1380864b86343af61164ea8551d4/HR-Job-Reports.png"
-  title: EEO Data
-  desc: We collect and provide EEO data per job, per organization, per license
-- sys:
-    id: 4yKOWl39zwmB2Az3AXL4GF
-    created_at: !ruby/object:DateTime 2019-11-27 16:59:46.141000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:32:31.264000000 Z
-    content_type_id: atsProduct
-    revision: 2
-  image:
-    sys:
-      id: 6J1QEEzOJtsCCGGAM7MUfh
-      created_at: !ruby/object:DateTime 2020-01-20 03:30:32.241000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 03:30:32.241000000 Z
-    title: Washington-Nationals-Portal Page
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/6J1QEEzOJtsCCGGAM7MUfh/9d0e6392f21a047fcbb7f3b6774a3c78/Wahinton-Nationals-Portal_Page.png"
-  title: Custom Job Pages
-  desc: Match employer’s websites to match branding, authenticity, and drive traffic
-    back to employer’s site.
-featureCard:
-- sys:
-    id: 5f664PIuenhDhNGxmHuvJU
-    created_at: !ruby/object:DateTime 2020-01-07 16:10:09.257000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:49:36.632000000 Z
-    content_type_id: featureCard
-    revision: 2
-  image:
-    sys:
-      id: 46D0ci2CJaqSBmkC80JAKO
-      created_at: !ruby/object:DateTime 2020-01-21 20:49:32.377000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:49:32.377000000 Z
-    title: mvp-access-logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/46D0ci2CJaqSBmkC80JAKO/9f991585373fa558eb0e0e35013f9076/mvp-access-logo.jpg"
-  name: MVP Access
-  desc: Candidate premium programs that help candidates better present their qualifications
-    and navigate the employment process
+  name: TextTender
+  desc: 'Recommends text to engage future applicants and avoid implicit bias on your
+    job description wording. '
   url: "#"
 - sys:
-    id: 4o1SgDdjyGW9jjQoS0JF7j
-    created_at: !ruby/object:DateTime 2020-01-06 21:16:45.421000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:48:39.092000000 Z
+    id: 5lnk7UWaBVLwtxM252BClx
+    created_at: !ruby/object:DateTime 2020-01-21 19:03:17.805000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:43:18.097000000 Z
     content_type_id: featureCard
-    revision: 3
+    revision: 13
   image:
     sys:
-      id: 7HDlkC9FgdtCj9rAasQ4am
-      created_at: !ruby/object:DateTime 2020-01-21 20:48:34.230000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:48:34.230000000 Z
-    title: Screen Shot 2020-01-21 at 2.48.21 PM
+      id: 4mYQSyOMNubKVsUTC0qRvl
+      created_at: !ruby/object:DateTime 2020-01-21 19:11:45.711000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-21 19:13:28.543000000 Z
+    title: daily-job-notifications1
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/7HDlkC9FgdtCj9rAasQ4am/ef14564373e9098a071dee2cdf8f5733/Screen_Shot_2020-01-21_at_2.48.21_PM.png"
-  name: TeamWork Social Media
-  desc: 100,000 sports career seekers follow our social media of automatic job distribution,
-    tags to team social media, and provide daily career counseling
+    url: "//images.ctfassets.net/utl7jk5xzwje/4mYQSyOMNubKVsUTC0qRvl/3b63527cc63ca8ae0bf9d1c2bb30110a/Screen_Shot_2020-01-21_at_2.10.28_PM.png"
+  name: Jobs delivered daily or manually into the right candidate’s inbox
+  desc: Deliver job announcement emails directly into the inbox of our 5.8M members
+    who are the right candidate for your openings
   url: "#"
 - sys:
-    id: 3H9pl43jU7S8gZX5mQpLc1
-    created_at: !ruby/object:DateTime 2020-01-06 21:17:19.496000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:47:25.047000000 Z
-    content_type_id: featureCard
-    revision: 2
-  image:
-    sys:
-      id: 4c4Tr89Nt7jzcd27xtk5kb
-      created_at: !ruby/object:DateTime 2020-01-21 20:47:20.813000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:47:20.813000000 Z
-    title: workday-NEW-logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4c4Tr89Nt7jzcd27xtk5kb/15cef29a5ff2c841b1fce891cbc25c57/workday-NEW-logo.jpg"
-  name: Workday Integration
-  desc: Snaps in front of Workday to activate TeamWork Recruiter processes
-  url: https://www.teamworkonline.com/pages/employer-tools-beta
-- sys:
-    id: 1lj8HXRHEjCxTTeL2CxedZ
-    created_at: !ruby/object:DateTime 2020-01-06 21:17:33.411000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:46:30.397000000 Z
+    id: 5AQ0jxG3QC5Yki4xBjWvNp
+    created_at: !ruby/object:DateTime 2020-01-21 18:52:41.374000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:42:52.551000000 Z
     content_type_id: featureCard
     revision: 3
   image:
     sys:
-      id: 2PE3MAxo0VtcCNxgCN1LdZ
-      created_at: !ruby/object:DateTime 2020-01-17 22:58:00.883000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-17 22:58:00.883000000 Z
-    title: ultipro
+      id: 1OIM4qnjG61sLRFRedHZ3t
+      created_at: !ruby/object:DateTime 2020-01-21 18:52:38.710000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-21 18:52:38.710000000 Z
+    title: Cavs-License-Example-1
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2PE3MAxo0VtcCNxgCN1LdZ/dffe21cc8b0851dce5a121969a821eec/ultipro.png"
-  name: Ultipro Integration
-  desc: 'Snaps in front of Ultipro to activate TeamWork Recruiter processes '
-  url: https://www.teamworkonline.com/pages/employer-tools-beta
-- sys:
-    id: 1vtMbN9Jpc6fK9LEjhyVa4
-    created_at: !ruby/object:DateTime 2019-11-27 17:04:46.993000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:45:38.907000000 Z
-    content_type_id: featureCard
-    revision: 5
-  image:
-    sys:
-      id: 4g8GS3JIzKp3mi8p9ZvT02
-      created_at: !ruby/object:DateTime 2020-01-17 22:50:41.764000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-17 22:50:41.764000000 Z
-    title: greenhouse-logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4g8GS3JIzKp3mi8p9ZvT02/619e0808ea4ca267161c2d0bffa54b4b/greenhouse-logo.png"
-  name: Greenhouse Integration
-  desc: Snaps in front of Greenhouse to activate TeamWork Recruiter processes
-  url: https://www.teamworkonline.com/pages/employer-tools-beta
-- sys:
-    id: 4fkEnTCHvqTHOhxznyA5xi
-    created_at: !ruby/object:DateTime 2019-11-27 17:05:27.726000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:43:34.554000000 Z
-    content_type_id: featureCard
-    revision: 6
-  image:
-    sys:
-      id: 724a9UU1hF8DCSflNCWfnU
-      created_at: !ruby/object:DateTime 2020-01-20 18:01:43.634000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 18:01:43.634000000 Z
-    title: calendly-NEW-logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/724a9UU1hF8DCSflNCWfnU/cf6d9007697f64333f4bda45c07cec07/calendly-NEW-logo.jpg"
-  name: Calendly Interview Schedule Integration
-  desc: Integrates Calendly to help schedule candidate interviews
+    url: "//images.ctfassets.net/utl7jk5xzwje/1OIM4qnjG61sLRFRedHZ3t/ab8cb1ccada68400ee7a3a5c4d0e1b35/Cavs-License-Example-1.jpg"
+  name: Custom Job Pages
+  desc: Job description pages mirrors your website to provide authenticity to your
+    job application process
   url: "#"
 - sys:
     id: 656kFNuqAp5MyrpvnbSJff
     created_at: !ruby/object:DateTime 2020-01-21 20:42:12.279000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:42:12.279000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:42:32.760000000 Z
     content_type_id: featureCard
-    revision: 1
+    revision: 3
   image:
     sys:
-      id: 1SpiKpd7vGJHVkXQ0zElZ4
-      created_at: !ruby/object:DateTime 2020-01-21 20:42:08.413000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:42:08.413000000 Z
-    title: profile-builder
+      id: 3PYgIlPc0Ab6ktEng3t0FR
+      created_at: !ruby/object:DateTime 2020-01-28 16:22:43.032000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-28 16:22:43.032000000 Z
+    title: profile-builder-2
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1SpiKpd7vGJHVkXQ0zElZ4/b8124bf850e43d30509a8c361882bbf9/Screen_Shot_2020-01-21_at_2.47.06_PM.png"
+    url: "//images.ctfassets.net/utl7jk5xzwje/3PYgIlPc0Ab6ktEng3t0FR/d0785b107337d6e23c6b6bf09ba3c803/Profile_Builder_2.png"
   name: Profile Builder
-  desc: Match the candidate’s skills to employer’s needs throughout a career spectrum
+  desc: Matches the candidate’s skills to employer’s needs throughout a career spectrum
   url: "#"
-- sys:
-    id: 5jJJJeBFNcm5pOPcWlk7Qu
-    created_at: !ruby/object:DateTime 2020-01-07 16:10:38.297000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:40:25.569000000 Z
-    content_type_id: featureCard
-    revision: 6
-  image:
-    sys:
-      id: 26HtkEnQCfb5f6JcluS630
-      created_at: !ruby/object:DateTime 2020-01-17 18:11:26.930000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-17 18:11:26.930000000 Z
-    title: Digital Business Card
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/26HtkEnQCfb5f6JcluS630/3abc33888787c8f375628b05461b10ea/Screen_Shot_2020-01-17_at_9.37.51_AM.png"
-  name: Digital Business Card
-  desc: Synched to a candidate’s profile for a more professional presentation and
-    automatic updating of your TeamWork database information
-  url: "#"
-- sys:
-    id: 5dcheonA9yNUZQQvT4bMDO
-    created_at: !ruby/object:DateTime 2020-01-21 20:39:31.916000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:39:31.916000000 Z
-    content_type_id: featureCard
-    revision: 1
-  image:
-    sys:
-      id: 7ey8moHl07y3DAba0a9hKl
-      created_at: !ruby/object:DateTime 2020-01-21 20:39:26.701000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:39:26.701000000 Z
-    title: teamwork-u-logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/7ey8moHl07y3DAba0a9hKl/e2a228afa5f5d4ae6d6078ada3ecf1f2/6ebbd028e40e05427c1fd7489b8be13046730eb56caea190af5bb1796aa5f72423408dde7f2714937342195c9e1961821bd45e157f024175d05669fc2552.png"
-  name: TeamWork U
-  desc: On-going partnerships with pre-eminent educational institutions preparing
-    the next generation of industry employees
-  url: https://www.teamworkonline.com/pages/teamwork-u
 - sys:
     id: 5nKSsQoifYP04qXbZBiwFM
     created_at: !ruby/object:DateTime 2020-01-07 16:11:02.720000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:33:24.959000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:42:15.918000000 Z
     content_type_id: featureCard
-    revision: 2
+    revision: 3
   image:
     sys:
       id: 5Pxx8KEkApLKSp7EPZHJo4
@@ -380,64 +338,29 @@ featureCard:
   desc: A vetted pool of passive candidates interested in your jobs
   url: "#"
 - sys:
-    id: 4MDSB40LoBaIKktALjmGr8
-    created_at: !ruby/object:DateTime 2019-11-27 17:05:12.024000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:31:57.343000000 Z
+    id: 4o1SgDdjyGW9jjQoS0JF7j
+    created_at: !ruby/object:DateTime 2020-01-06 21:16:45.421000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:41:55.652000000 Z
     content_type_id: featureCard
-    revision: 5
+    revision: 4
   image:
     sys:
-      id: pNkkjId7o5QMnWz6MLSvb
-      created_at: !ruby/object:DateTime 2020-01-17 23:05:14.922000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-17 23:05:14.922000000 Z
-    title: Washington Nationals Networking
+      id: 7HDlkC9FgdtCj9rAasQ4am
+      created_at: !ruby/object:DateTime 2020-01-21 20:48:34.230000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-21 20:48:34.230000000 Z
+    title: Screen Shot 2020-01-21 at 2.48.21 PM
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/pNkkjId7o5QMnWz6MLSvb/5be641fbf44050fd39902a8f1d687e7b/IMG_3928.jpeg"
-  name: Face to Face Events
-  desc: 'Bring candidates face to face to employers in 80+ events throughout North
-    America '
-  url: "#"
-- sys:
-    id: 1E8DpWdV6YixHQ5xeoYvV7
-    created_at: !ruby/object:DateTime 2019-11-27 17:03:05.585000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:23:30.737000000 Z
-    content_type_id: featureCard
-    revision: 5
-  image:
-    sys:
-      id: 56ZxdKWEAu8AQtLTEmCsxf
-      created_at: !ruby/object:DateTime 2020-01-21 20:23:27.232000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 20:23:27.232000000 Z
-    title: mls
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/56ZxdKWEAu8AQtLTEmCsxf/f100c0c6ae3a3bb5704540408db8151f/mls.png"
-  name: Hiring Consulting Projects
-  desc: Provide extra hand in sourcing, Recruiting and light screening of candidates
-  url: "#"
-- sys:
-    id: 5lnk7UWaBVLwtxM252BClx
-    created_at: !ruby/object:DateTime 2020-01-21 19:03:17.805000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 20:11:50.901000000 Z
-    content_type_id: featureCard
-    revision: 8
-  image:
-    sys:
-      id: 4mYQSyOMNubKVsUTC0qRvl
-      created_at: !ruby/object:DateTime 2020-01-21 19:11:45.711000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 19:13:28.543000000 Z
-    title: daily-job-notifications1
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4mYQSyOMNubKVsUTC0qRvl/3b63527cc63ca8ae0bf9d1c2bb30110a/Screen_Shot_2020-01-21_at_2.10.28_PM.png"
-  name: Jobs delivered daily or manually into right candidate’s inbox
-  desc: Deliver Job Announcement emails directly into the inbox of our 5.8M members
-    who fit or know the right candidate for your job
+    url: "//images.ctfassets.net/utl7jk5xzwje/7HDlkC9FgdtCj9rAasQ4am/ef14564373e9098a071dee2cdf8f5733/Screen_Shot_2020-01-21_at_2.48.21_PM.png"
+  name: Social Media
+  desc: 100,000 sports career seekers follow our social media of automatic job distribution,
+    tags to team social media, and provide daily career counseling
   url: "#"
 - sys:
     id: 5RvkaaucNwLk08bkKq3IJa
     created_at: !ruby/object:DateTime 2020-01-21 18:58:04.553000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 18:58:04.553000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:41:30.091000000 Z
     content_type_id: featureCard
-    revision: 1
+    revision: 2
   image:
     sys:
       id: 4wE5PN9ejLiPsCT7AchWc7
@@ -447,14 +370,14 @@ featureCard:
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/4wE5PN9ejLiPsCT7AchWc7/b4d1ae020eee4ae2c5b8f4a66cab85d6/NBA-License-Example-1.jpg"
   name: Jobs Linked to League’s Home Page
-  desc: Team Jobs automatically displayed on the high-trafficked League’s home page
+  desc: Team Jobs automatically displays on the high-trafficked League’s home page
   url: "#"
 - sys:
     id: 7DKjSxDvdVN1npWrXP04kN
     created_at: !ruby/object:DateTime 2020-01-21 18:55:45.066000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 18:55:45.066000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:41:05.234000000 Z
     content_type_id: featureCard
-    revision: 1
+    revision: 2
   image:
     sys:
       id: 4mp5QtXE9KlOOyiQTQVatT
@@ -464,50 +387,50 @@ featureCard:
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/4mp5QtXE9KlOOyiQTQVatT/d4b5fd5950c889cc3a8ef1efbe5f46d6/Screen_Shot_2020-01-21_at_1.55.39_PM.png"
   name: Search Engine Optimization (SEO)
-  desc: Manage employer’s brand, logo and candidates from job scrapers with our powerful
+  desc: Manages employer’s brand, logo and candidates from job scrapers with our powerful
     SEO
   url: "#"
 - sys:
-    id: 5AQ0jxG3QC5Yki4xBjWvNp
-    created_at: !ruby/object:DateTime 2020-01-21 18:52:41.374000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 18:52:41.374000000 Z
+    id: 4MDSB40LoBaIKktALjmGr8
+    created_at: !ruby/object:DateTime 2019-11-27 17:05:12.024000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:40:47.234000000 Z
     content_type_id: featureCard
-    revision: 1
+    revision: 9
   image:
     sys:
-      id: 1OIM4qnjG61sLRFRedHZ3t
-      created_at: !ruby/object:DateTime 2020-01-21 18:52:38.710000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 18:52:38.710000000 Z
-    title: Cavs-License-Example-1
+      id: pNkkjId7o5QMnWz6MLSvb
+      created_at: !ruby/object:DateTime 2020-01-17 23:05:14.922000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-17 23:05:14.922000000 Z
+    title: Washington Nationals Networking
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1OIM4qnjG61sLRFRedHZ3t/ab8cb1ccada68400ee7a3a5c4d0e1b35/Cavs-License-Example-1.jpg"
-  name: Custom Job Pages
-  desc: Custom branded lander pages that match your organization's website
-  url: "#"
+    url: "//images.ctfassets.net/utl7jk5xzwje/pNkkjId7o5QMnWz6MLSvb/5be641fbf44050fd39902a8f1d687e7b/IMG_3928.jpeg"
+  name: Face-to-Face Events
+  desc: 'Brings candidates face-to-face to employers in 70+ events throughout North
+    America '
+  url: https://www.teamworkonline.com/pages/events
 - sys:
-    id: 4bB5m6zEk7434JHcjanJRi
-    created_at: !ruby/object:DateTime 2019-11-27 17:06:08.279000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-21 17:41:18.495000000 Z
+    id: 1E8DpWdV6YixHQ5xeoYvV7
+    created_at: !ruby/object:DateTime 2019-11-27 17:03:05.585000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:40:08.089000000 Z
     content_type_id: featureCard
-    revision: 3
+    revision: 8
   image:
     sys:
-      id: 7I8RZDmGFdge4MHdI825bF
-      created_at: !ruby/object:DateTime 2020-01-21 17:40:52.285000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-21 17:40:52.285000000 Z
-    title: text-tenderimage
+      id: 2sf3A22Vz5GxB8jkBH5iF7
+      created_at: !ruby/object:DateTime 2020-01-22 20:35:09.514000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 20:35:09.514000000 Z
+    title: frisco-rough-riders
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/7I8RZDmGFdge4MHdI825bF/078897174fc83611a8686ab50a23ff85/Screen_Shot_2020-01-21_at_12.38.31_PM.png"
-  name: TextTender
-  desc: Recommend text to engage future applicants and avoid implicit bias on your
-    job description wording.
+    url: "//images.ctfassets.net/utl7jk5xzwje/2sf3A22Vz5GxB8jkBH5iF7/7b2f025c27411518802ca8a991815c10/frisco-rough-riders.jpg"
+  name: Hiring Consulting
+  desc: Provides an extra hand in sourcing, recruiting and light screening of candidates
   url: "#"
 - sys:
     id: 36SdHixIywJfZGUDuwruj
     created_at: !ruby/object:DateTime 2020-01-06 21:22:08.903000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 21:07:04.213000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:39:42.121000000 Z
     content_type_id: featureCard
-    revision: 8
+    revision: 9
   image:
     sys:
       id: 1dFv9y5o0OhTaBnuRqVpT5
@@ -516,12 +439,211 @@ featureCard:
     title: Bill Manning and Buffy
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/1dFv9y5o0OhTaBnuRqVpT5/5b08f21a08b7ad6d93578f6c67d27416/DSC03481.jpeg"
-  name: Search Projects
+  name: Search Services
   desc: Our founder, Buffy Filippell, was the first to conduct retained executive
     searches in sport. Pictured with Bill Manning, President, Toronto FC and Toronto
     Argonauts, one of her recruits
   url: https://www.teamworkconsulting.com
+- sys:
+    id: 5jJJJeBFNcm5pOPcWlk7Qu
+    created_at: !ruby/object:DateTime 2020-01-07 16:10:38.297000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:39:13.641000000 Z
+    content_type_id: featureCard
+    revision: 10
+  image:
+    sys:
+      id: 26HtkEnQCfb5f6JcluS630
+      created_at: !ruby/object:DateTime 2020-01-17 18:11:26.930000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-17 18:11:26.930000000 Z
+    title: Digital Business Card
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/26HtkEnQCfb5f6JcluS630/3abc33888787c8f375628b05461b10ea/Screen_Shot_2020-01-17_at_9.37.51_AM.png"
+  name: Digital Business Card
+  desc: Synchs to a candidate’s profile for a more professional presentation and automatic
+    updating of your TeamWork database information
+  url: https://www.teamworkonline.com/dashboard/business_card_settings
+- sys:
+    id: 5dcheonA9yNUZQQvT4bMDO
+    created_at: !ruby/object:DateTime 2020-01-21 20:39:31.916000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:38:38.618000000 Z
+    content_type_id: featureCard
+    revision: 4
+  image:
+    sys:
+      id: t5xYlq5yLqnPKqSwtlQoD
+      created_at: !ruby/object:DateTime 2020-01-24 16:07:51.880000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-24 16:07:51.880000000 Z
+    title: buffy-classroom-teamwork-u-1
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/t5xYlq5yLqnPKqSwtlQoD/8019600c98c8e630ae342620e23d6c46/buffy-classroom-teamwork-u-1.jpg"
+  name: TeamWork U
+  desc: On-going partnerships with pre-eminent educational institutions preparing
+    the next generation of industry employees
+  url: https://www.teamworkonline.com/pages/teamwork-u
+- sys:
+    id: 5f664PIuenhDhNGxmHuvJU
+    created_at: !ruby/object:DateTime 2020-01-07 16:10:09.257000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:37:57.395000000 Z
+    content_type_id: featureCard
+    revision: 6
+  image:
+    sys:
+      id: 6it5H7RKdFplVB81xz8UcA
+      created_at: !ruby/object:DateTime 2020-01-22 21:22:12.867000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 21:22:12.867000000 Z
+    title: mvp-access-logo-NEW-3
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/6it5H7RKdFplVB81xz8UcA/b625e492e2e47f7c4f36cdad259aaec9/mvp-access-logo-NEW-3.jpg"
+  name: MVP Access
+  desc: Candidate premium programs that help candidates better present their qualifications
+    and navigate the employment process
+  url: "#https://www.teamworkonline.com/subscriptions/new"
+- sys:
+    id: 4fkEnTCHvqTHOhxznyA5xi
+    created_at: !ruby/object:DateTime 2019-11-27 17:05:27.726000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:37:26.520000000 Z
+    content_type_id: featureCard
+    revision: 8
+  image:
+    sys:
+      id: 3V6RPicW8sABHpT6TZSj0Z
+      created_at: !ruby/object:DateTime 2020-01-22 21:38:19.361000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 21:38:19.361000000 Z
+    title: calendly-logo-NEW-2
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/3V6RPicW8sABHpT6TZSj0Z/78669eb86580045c95024f470cf4ebf3/calendly-logo-NEW-2.jpg"
+  name: Calendly Interview Schedule
+  desc: Integrates Calendly to help schedule candidate interviews
+  url: "#"
+- sys:
+    id: 1lj8HXRHEjCxTTeL2CxedZ
+    created_at: !ruby/object:DateTime 2020-01-06 21:17:33.411000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:36:38.419000000 Z
+    content_type_id: featureCard
+    revision: 5
+  image:
+    sys:
+      id: 45EKXZWOwv8lGrIzN2gG9J
+      created_at: !ruby/object:DateTime 2020-01-22 21:44:43.705000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 21:44:43.705000000 Z
+    title: ultipro-logo-NEW-2
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/45EKXZWOwv8lGrIzN2gG9J/4d9c9c0cb63aee207435f90d9dc9d0ce/ultipro-logo-NEW-2.jpg"
+  name: Ultipro Integration
+  desc: Snaps in front of Ultipro ATS and seamlessly activates TeamWork Recruiter
+    processes
+  url: https://www.teamworkonline.com/pages/employer-tools-beta
+- sys:
+    id: 1vtMbN9Jpc6fK9LEjhyVa4
+    created_at: !ruby/object:DateTime 2019-11-27 17:04:46.993000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:35:48.887000000 Z
+    content_type_id: featureCard
+    revision: 13
+  image:
+    sys:
+      id: ytp5HerDLdleQSoVjCo3Q
+      created_at: !ruby/object:DateTime 2020-01-22 21:32:05.429000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 01:18:00.925000000 Z
+    title: greenhouse-logo-NEW
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/ytp5HerDLdleQSoVjCo3Q/4be4b6b9f006f1e9dc47c11e4a5ba830/greenhouse-logo-NEW-2.jpg"
+  name: Greenhouse Integration
+  desc: Snaps in front of Greenhouse ATS and seamlessly activates TeamWork Recruiter
+    processes
+  url: "#"
+- sys:
+    id: 3H9pl43jU7S8gZX5mQpLc1
+    created_at: !ruby/object:DateTime 2020-01-06 21:17:19.496000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-28 16:35:23.135000000 Z
+    content_type_id: featureCard
+    revision: 9
+  image:
+    sys:
+      id: 59WRgFf0Sw0YXZal3CE7xU
+      created_at: !ruby/object:DateTime 2020-01-22 21:55:39.667000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 01:20:04.435000000 Z
+    title: workday-logo-NEW-3
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/59WRgFf0Sw0YXZal3CE7xU/fb920ab9a6c301d50877b4b84ffd57b5/workday-logo-NEW-2.jpg"
+  name: Workday Integration
+  desc: Snaps in front of Workday ATS and seamlessly activates TeamWork Recruiter
+    processes
+  url: "#"
+organizations:
+- sys:
+    id: 18xMWfM8oSibYAJWNsb34k
+    created_at: !ruby/object:DateTime 2019-11-27 17:08:05.319000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-27 22:07:06.304000000 Z
+    content_type_id: organizations
+    revision: 5
+  headline: Trusted by over 900 organizations and 130,000 hires
+  image:
+  - sys:
+      id: 40vBhetbQPNBD2Pqq62pGE
+      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.149000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:37:40.885000000 Z
+    title: Washington Nationals
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/40vBhetbQPNBD2Pqq62pGE/8655e18a12593ce31e4bb9101d4d603e/washington-nationals-home.png"
+  - sys:
+      id: 46iuEWrsdQNmEEHVw39N5U
+      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.173000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:42:32.111000000 Z
+    title: Golden State Warriors
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/46iuEWrsdQNmEEHVw39N5U/7e2c61a04a0577d21fb08022e61142b3/golden-state-warriors-home.png"
+  - sys:
+      id: 1u21rRtyxUCv3U9ap05baw
+      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.382000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:44:12.923000000 Z
+    title: Green Bay Packers
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/1u21rRtyxUCv3U9ap05baw/03e0f9cef9269e41fcc4723530c5551f/greenbay-packers-home.png"
+  - sys:
+      id: 2GoEeMc4aldbTuzHRoXmnD
+      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.165000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:45:35.139000000 Z
+    title: Cleveland Cavaliers
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2GoEeMc4aldbTuzHRoXmnD/576c672892e7f19bd186a85ddf2817fb/cleveland-cavaliers-home.png"
+  - sys:
+      id: 531Tolhzw1wBGkb7UbIpGf
+      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.143000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:46:04.171000000 Z
+    title: NHL
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/531Tolhzw1wBGkb7UbIpGf/99c2ce2ed5baedcb0cbd99fdf68ce27d/nhl-home.png"
+  - sys:
+      id: 7wzdOOwVsW86BaGcIJwz1X
+      created_at: !ruby/object:DateTime 2020-01-20 03:17:01.602000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:46:42.885000000 Z
+    title: UFC
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/7wzdOOwVsW86BaGcIJwz1X/aedbc6b0423d1abb54c8577b6940cd20/ufc-home.png"
+  - sys:
+      id: 5PFXdYSDOkmCBhkWtjEq9B
+      created_at: !ruby/object:DateTime 2020-01-20 03:19:58.648000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:47:10.161000000 Z
+    title: PGA Tour
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5PFXdYSDOkmCBhkWtjEq9B/96a4986890250dc731d058c2e24bc52a/pga-tour-home.png"
+  - sys:
+      id: 3zam4TybpAuWrFEw5Oxixj
+      created_at: !ruby/object:DateTime 2020-01-20 03:21:51.970000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-27 19:47:35.661000000 Z
+    title: Austin FC
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/3zam4TybpAuWrFEw5Oxixj/ade6a524f268f28834d08a676a982112/austin-fc-home.png"
 orderedList:
+- sys:
+    id: 7aWqLeiHkiaBoHFREgHoMK
+    created_at: !ruby/object:DateTime 2019-11-27 16:48:56.622000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-26 23:58:03.786000000 Z
+    content_type_id: orderedList
+    revision: 3
+  order: 3
+  title: Community
+  desc: Its welcoming platform annually attracts 200,000 diverse candidates.
 - sys:
     id: 1ZpsyAFZixNI0XNUQK2m3G
     created_at: !ruby/object:DateTime 2019-11-27 16:49:16.908000000 Z
@@ -555,15 +677,6 @@ orderedList:
     sports teams or events. It’s not a job board nor aggregator. Employers are members,
     many for over 10+ years.
 - sys:
-    id: 7aWqLeiHkiaBoHFREgHoMK
-    created_at: !ruby/object:DateTime 2019-11-27 16:48:56.622000000 Z
-    updated_at: !ruby/object:DateTime 2019-12-03 17:10:19.988000000 Z
-    content_type_id: orderedList
-    revision: 2
-  order: 3
-  title: Community
-  desc: Its welcoming platform attracts 200,000 diverse candidates annually.
-- sys:
     id: 2nxOrxpsEzJrRXeJCukqM5
     created_at: !ruby/object:DateTime 2019-11-27 16:49:06.877000000 Z
     updated_at: !ruby/object:DateTime 2019-12-03 17:10:15.458000000 Z
@@ -574,137 +687,58 @@ orderedList:
   desc: 300+ universities are partners and 45+ of them subscribe to in-depth career
     counseling for their students. There are similar partnerships with professional
     organizations.
-productLink:
+teamWorkU:
 - sys:
-    id: 2fDRWXvLvYgOTcZydqy6o7
-    created_at: !ruby/object:DateTime 2019-11-27 16:39:48.453000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:28:43.373000000 Z
-    content_type_id: productLink
-    revision: 7
-  icon:
+    id: 4rJ8DSkdVNKqBNvkAn3Zzm
+    created_at: !ruby/object:DateTime 2019-12-05 17:53:52.496000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 03:53:12.345000000 Z
+    content_type_id: teamWorkU
+    revision: 2
+  logo:
     sys:
-      id: 3bLaaaiACkiMBxKOy1H2ee
-      created_at: !ruby/object:DateTime 2019-11-27 16:39:45.161000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:39:45.161000000 Z
-    title: tools-alt-2
+      id: 5py1aZd8tCK2D1LMBdd0XH
+      created_at: !ruby/object:DateTime 2019-12-05 17:53:17.765000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-05 17:53:17.765000000 Z
+    title: TeamWork U Logo
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/3bLaaaiACkiMBxKOy1H2ee/1ca6172e5eae279e3bb5e4c8384254a5/tools-alt-2.svg"
-  name: TeamWork Recruiter
-  desc: Let our proprietary recruiting system to do the recruiting for you
-  cta: View Tools
-  url: "/pages/employer-tools-beta"
-  order_override: 1
-- sys:
-    id: GF8H9Dh7tQ48OTsyxj1kk
-    created_at: !ruby/object:DateTime 2019-11-27 16:41:42.181000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-16 22:51:46.789000000 Z
-    content_type_id: productLink
-    revision: 6
-  icon:
+    url: "//images.ctfassets.net/utl7jk5xzwje/5py1aZd8tCK2D1LMBdd0XH/27a96cc4e47af6f338439fbdbf36cdaf/TeamWork-U-Logo.png"
+  title: 'TeamWork U helps students get hired faster '
+  cta: Join TeamWork U
+  background:
     sys:
-      id: 4dF0qx6YItF3PafpJ2RYD6
-      created_at: !ruby/object:DateTime 2019-11-27 16:41:39.740000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:41:39.740000000 Z
-    title: addons
+      id: 1ij2bDEdlOQfNDCsOI9mEH
+      created_at: !ruby/object:DateTime 2019-12-05 17:50:19.881000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-05 17:50:19.881000000 Z
+    title: TeamWork U Header
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4dF0qx6YItF3PafpJ2RYD6/dcec54a77b4b1ab9339744412696a8e6/addons.svg"
-  name: Special Features & Products
-  desc: Access TeamWork’s proprietary tools to find diverse and qualified candidates
-    both inside and outside your network
-  cta: View Features
-  url: https://staging.teamworkonline.com/pages/features-beta
-  order_override: 3
+    url: "//images.ctfassets.net/utl7jk5xzwje/1ij2bDEdlOQfNDCsOI9mEH/4a11d44cd707da6015ba6230332d0bea/IMG_8688.jpg"
+atsPage:
 - sys:
-    id: 5mmoZP2wT0QpzZUnM1cwe9
-    created_at: !ruby/object:DateTime 2019-11-27 16:40:58.686000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-02 15:40:48.606000000 Z
-    content_type_id: productLink
-    revision: 6
-  icon:
-    sys:
-      id: 3qZ9xFgCMTg5FW4A2OvojR
-      created_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
-    title: users-alt-3
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/3qZ9xFgCMTg5FW4A2OvojR/2d18a15fdcca25648efdada2e66077d0/users-alt-3.svg"
-  name: Applicant Tracking System
-  desc: Everything stays in one place, our integrated system helps you stay organized.
-  cta: View ATS
-  url: https://staging.teamworkonline.com/pages/ats-beta
-  order_override: 2
-organizations:
-- sys:
-    id: 18xMWfM8oSibYAJWNsb34k
-    created_at: !ruby/object:DateTime 2019-11-27 17:08:05.319000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:21:56.473000000 Z
-    content_type_id: organizations
-    revision: 4
-  headline: Trusted by over 900 organizations and 130,000 hires
+    id: 4XA3DTqTp2BcaZGFuUXGoO
+    created_at: !ruby/object:DateTime 2019-11-27 17:01:10.474000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 03:36:18.437000000 Z
+    content_type_id: atsPage
+    revision: 3
+  title: Online ATS
+  desc: TeamWork provides an applicant management system to post jobs, review, change
+    status, turn-off candidates and manage the complete recruiting process within
+    the system.
   image:
-  - sys:
-      id: 40vBhetbQPNBD2Pqq62pGE
-      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.149000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 17:08:24.149000000 Z
-    title: wta
+    sys:
+      id: 4IzmknZhK2eggDjhuZxMZc
+      created_at: !ruby/object:DateTime 2020-01-22 16:12:11.891000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 16:12:11.891000000 Z
+    title: laptop-tablet-combo
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/40vBhetbQPNBD2Pqq62pGE/56727926c3f8c6b25d931a72462b7d5c/wta.png"
-  - sys:
-      id: 46iuEWrsdQNmEEHVw39N5U
-      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.173000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 17:08:24.173000000 Z
-    title: rockets
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/46iuEWrsdQNmEEHVw39N5U/74cb9cf79b763ee01aa0d84f4915c382/rockets.png"
-  - sys:
-      id: 1u21rRtyxUCv3U9ap05baw
-      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.382000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 17:08:24.382000000 Z
-    title: pga
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1u21rRtyxUCv3U9ap05baw/29256b71060bd0a1ce290081202625de/pga.png"
-  - sys:
-      id: 2GoEeMc4aldbTuzHRoXmnD
-      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.165000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 17:08:24.165000000 Z
-    title: texans
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2GoEeMc4aldbTuzHRoXmnD/7cccd82c738e988c6d1fe447de0acd85/texans.png"
-  - sys:
-      id: 531Tolhzw1wBGkb7UbIpGf
-      created_at: !ruby/object:DateTime 2019-11-27 17:08:24.143000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 17:08:24.143000000 Z
-    title: cavs
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/531Tolhzw1wBGkb7UbIpGf/8b9ea268e1a1163c03d9950e6dd9ecf7/cavs.png"
-  - sys:
-      id: 7wzdOOwVsW86BaGcIJwz1X
-      created_at: !ruby/object:DateTime 2020-01-20 03:17:01.602000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 03:17:01.602000000 Z
-    title: nhl
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/7wzdOOwVsW86BaGcIJwz1X/748a4c7fa4a68b1b6375444da4b2b950/nhl.png"
-  - sys:
-      id: 5PFXdYSDOkmCBhkWtjEq9B
-      created_at: !ruby/object:DateTime 2020-01-20 03:19:58.648000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 03:19:58.648000000 Z
-    title: wme-img
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/5PFXdYSDOkmCBhkWtjEq9B/0c56f84d3bfcbbb79351098b8b5e7209/wme-img.jpg"
-  - sys:
-      id: 3zam4TybpAuWrFEw5Oxixj
-      created_at: !ruby/object:DateTime 2020-01-20 03:21:51.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-01-20 03:21:51.970000000 Z
-    title: ufc
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/3zam4TybpAuWrFEw5Oxixj/35f23e128d72e5c84e3c8d7a55fda88e/ufc.png"
+    url: "//images.ctfassets.net/utl7jk5xzwje/4IzmknZhK2eggDjhuZxMZc/ee852baf1f9d311129a5468ec8b33b01/laptop-tablet-combo.jpg"
+  cta: Contact us about an annual license
 unorderedList:
 - sys:
     id: 7EofBsMHTtIfLHyvkZ3nqn
     created_at: !ruby/object:DateTime 2019-11-27 16:50:34.718000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:10:39.986000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:49:03.142000000 Z
     content_type_id: unorderedList
-    revision: 6
+    revision: 8
   image:
     sys:
       id: 3qZ9xFgCMTg5FW4A2OvojR
@@ -713,15 +747,15 @@ unorderedList:
     title: users-alt-3
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/3qZ9xFgCMTg5FW4A2OvojR/2d18a15fdcca25648efdada2e66077d0/users-alt-3.svg"
-  title: Collective Recruiting
-  desc: 10,000 hiring managers constantly attract, mark and vet candidates onto the
-    platform.
+  title: 'Collective Recruiting '
+  desc: 10,000 hiring managers from 900+ big brand employers constantly attract, mark
+    and vet candidates onto the platform.
 - sys:
     id: 7MvsqmDcWDsusBDOXKreTB
     created_at: !ruby/object:DateTime 2019-11-27 16:50:53.343000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-20 03:10:12.739000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:48:31.831000000 Z
     content_type_id: unorderedList
-    revision: 4
+    revision: 6
   image:
     sys:
       id: 4hRQR4FfYROZ59cofE4JD8
@@ -730,31 +764,15 @@ unorderedList:
     title: flag
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/4hRQR4FfYROZ59cofE4JD8/0aa389958b8360e2e9df0ec682c581b9/flag.svg"
-  title: Build it right
+  title: Build the right matching technology
   desc: Our Profile Builder, Job Applications and internal Professional Network match
     the candidate’s skills to the employer’s needs
 - sys:
-    id: 20ptreeeDLYnH08SitSNrk
-    created_at: !ruby/object:DateTime 2019-11-27 16:51:29.219000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-17 12:54:56.190000000 Z
-    content_type_id: unorderedList
-    revision: 5
-  image:
-    sys:
-      id: mSmIQNy05gkwvqhMCjhkR
-      created_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:51:27.739000000 Z
-    title: mega-phone
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/mSmIQNy05gkwvqhMCjhkR/4c559c4d29d6913337439f53359f4da0/mega-phone.svg"
-  title: Engage face to face with your candidates
-  desc: Our 70+ events bring candidates directly to the employers
-- sys:
     id: 7iHUu7kkXGUpe5me1oMXhj
     created_at: !ruby/object:DateTime 2019-11-27 16:51:09.076000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-10 15:35:10.949000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:47:58.958000000 Z
     content_type_id: unorderedList
-    revision: 2
+    revision: 3
   image:
     sys:
       id: 5mO2JYwekZs1Q6d3IEwTEH
@@ -764,9 +782,89 @@ unorderedList:
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/5mO2JYwekZs1Q6d3IEwTEH/9b6aa05a3bd433dcd00fd1b43e4aa30c/search-1.svg"
   title: Highly discoverable jobs
-  desc: Get the word out through our daily email marketing, SEO-coded high ranking
-    job description pages, custom webpages that mirror employer’s websites, social
-    media and direct marketing to diverse candidates
+  desc: Get the word out through our daily email marketing searching 5.8M profiles,
+    SEO-coded high ranking job description pages, custom webpages that mirror employer’s
+    websites, social media and direct marketing to diverse candidates
+- sys:
+    id: 20ptreeeDLYnH08SitSNrk
+    created_at: !ruby/object:DateTime 2019-11-27 16:51:29.219000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-17 12:54:56.190000000 Z
+    content_type_id: unorderedList
+    revision: 5
+  image:
+    sys:
+      type: Link
+      linkType: Asset
+      id: mSmIQNy05gkwvqhMCjhkR
+  title: Engage face to face with your candidates
+  desc: Our 70+ events bring candidates directly to the employers
+atsProduct:
+- sys:
+    id: 4yKOWl39zwmB2Az3AXL4GF
+    created_at: !ruby/object:DateTime 2019-11-27 16:59:46.141000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-24 16:25:32.333000000 Z
+    content_type_id: atsProduct
+    revision: 4
+  image:
+    sys:
+      id: 40o93BagByZcAnYkxu9IRY
+      created_at: !ruby/object:DateTime 2020-01-24 16:24:20.338000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-24 16:24:20.338000000 Z
+    title: florida-panthers-license
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/40o93BagByZcAnYkxu9IRY/bddd7de20cad129db93e19fbd36aeb75/florida-panthers-license.jpg"
+  title: Custom Job Pages
+  desc: Match employer’s websites to match branding, authenticity, and drive traffic
+    back to employer’s site.
+- sys:
+    id: 4KS9wgPmbj1gQ5bqnDa0jr
+    created_at: !ruby/object:DateTime 2019-11-27 16:59:34.270000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 21:13:36.397000000 Z
+    content_type_id: atsProduct
+    revision: 5
+  image:
+    sys:
+      id: 4nWeNS2dXUiu0yOSf8jX46
+      created_at: !ruby/object:DateTime 2020-01-22 21:13:25.754000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 21:13:25.754000000 Z
+    title: eeo-link-2
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/4nWeNS2dXUiu0yOSf8jX46/0284e22a444abfbd1b0b02cb68162e63/Screen_Shot_2020-01-22_at_4.12.57_PM.png"
+  title: EEO Data
+  desc: We collect and provide EEO data per job, per organization, per license
+- sys:
+    id: 7hemE26j3yD3DxRXqR7SXY
+    created_at: !ruby/object:DateTime 2019-11-27 16:59:57.819000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-21 20:56:55.866000000 Z
+    content_type_id: atsProduct
+    revision: 2
+  image:
+    sys:
+      id: 7I8RZDmGFdge4MHdI825bF
+      created_at: !ruby/object:DateTime 2020-01-21 17:40:52.285000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-21 17:40:52.285000000 Z
+    title: text-tenderimage
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/7I8RZDmGFdge4MHdI825bF/078897174fc83611a8686ab50a23ff85/Screen_Shot_2020-01-21_at_12.38.31_PM.png"
+  title: TextTender
+  desc: Recommend text to engage future applicants and avoid implicit bias on your
+    job description wording.
+mvpTestimonialHeading:
+- sys:
+    id: 6YEalbPZzfZb7sxZU1NWZt
+    created_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
+    content_type_id: mvpTestimonialHeading
+    revision: 1
+  title: Loved by over 12,000 people
+mvpFeatureHeading:
+- sys:
+    id: 48UPoxiSVATM8lbtCYDTG
+    created_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 18:14:42.334000000 Z
+    content_type_id: mvpFeatureHeading
+    revision: 1
+  title: The three things you need to succeed
 twoMarketingHome:
 - sys:
     id: 2LRwibhuevkvk8R9noIGPH
@@ -1046,10 +1144,10 @@ schools:
   - sys:
       id: 1slTdFCP1kkrxkIel9zcgH
       created_at: !ruby/object:DateTime 2019-12-16 19:46:26.989000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-16 19:46:26.989000000 Z
-    title: ohio
+      updated_at: !ruby/object:DateTime 2020-01-27 16:39:13.007000000 Z
+    title: Johnson & Wales University
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1slTdFCP1kkrxkIel9zcgH/acce75a8906467b3fc8ccd3e6cb3a89b/ohio.png"
+    url: "//images.ctfassets.net/utl7jk5xzwje/1slTdFCP1kkrxkIel9zcgH/27517e6e3f39a1d5738c330ac438952b/JWU-logo.png"
   - sys:
       id: 1CwOAEb7CrFjde1zv3MWe6
       created_at: !ruby/object:DateTime 2019-12-16 19:46:26.997000000 Z
@@ -1093,28 +1191,3 @@ sectionHeading:
   desc: Get monthly updates on the job landscape, where opportunities lie, advice
     from executives, and success stories from students who were able to land a job
     within their degree by using TeamWork U.
-teamWorkU:
-- sys:
-    id: 4rJ8DSkdVNKqBNvkAn3Zzm
-    created_at: !ruby/object:DateTime 2019-12-05 17:53:52.496000000 Z
-    updated_at: !ruby/object:DateTime 2019-12-05 17:53:52.496000000 Z
-    content_type_id: teamWorkU
-    revision: 1
-  logo:
-    sys:
-      id: 5py1aZd8tCK2D1LMBdd0XH
-      created_at: !ruby/object:DateTime 2019-12-05 17:53:17.765000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-05 17:53:17.765000000 Z
-    title: TeamWork U Logo
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/5py1aZd8tCK2D1LMBdd0XH/27a96cc4e47af6f338439fbdbf36cdaf/TeamWork-U-Logo.png"
-  title: TeamWork U helps students get hired faster
-  cta: Join TeamWork U
-  background:
-    sys:
-      id: 1ij2bDEdlOQfNDCsOI9mEH
-      created_at: !ruby/object:DateTime 2019-12-05 17:50:19.881000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-05 17:50:19.881000000 Z
-    title: TeamWork U Header
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1ij2bDEdlOQfNDCsOI9mEH/4a11d44cd707da6015ba6230332d0bea/IMG_8688.jpg"
