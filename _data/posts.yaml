@@ -1,4 +1,130 @@
 ---
+mvpTestimonial:
+- sys:
+    id: EeHwb4RSiufXopsLdRixN
+    created_at: !ruby/object:DateTime 2020-01-22 18:06:57.796000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:55:43.902000000 Z
+    content_type_id: mvpTestimonial
+    revision: 5
+  name: Joseph Redmond
+  quote: '"Being able to have my resume viewed first as well as knowing how many people
+    I was up against really helped me during the hiring process with NYCFC."'
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Senior Manager, Ticket Sales, NYCFC '
+  hex_color: CE1141
+- sys:
+    id: 4UE2hU31cvNlgH1Klahcfd
+    created_at: !ruby/object:DateTime 2020-01-22 18:09:11.355000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:55:36.623000000 Z
+    content_type_id: mvpTestimonial
+    revision: 5
+  name: Madelyn Glista
+  quote: '"I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool."'
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: 006BB6
+- sys:
+    id: 12LaFXtT66QXjUGmJGn256
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:43.153000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:55:28.011000000 Z
+    content_type_id: mvpTestimonial
+    revision: 3
+  name: Madelyn Glista (3)
+  quote: '"I think that having MVP Access helped me tremendously in getting my internship
+    because it put my name higher up in the candidate pool."'
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
+    Foundation '
+  hex_color: f012be
+- sys:
+    id: 5KxRfhcUtg7YhIOk6lULnU
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:40.128000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:23:41.734000000 Z
+    content_type_id: mvpTestimonial
+    revision: 3
+  name: Emily Johnson-Haug
+  quote: "“When you are applying for jobs it feels uncomfortable.  With MVP Access
+    you can see how many have applied and when the employer reviewed your application.” "
+  image:
+    sys:
+      id: NQYubCmqkPxlAMkstUrBt
+      created_at: !ruby/object:DateTime 2020-02-11 20:23:38.120000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-11 20:23:38.120000000 Z
+    title: Emily-johnson-haug
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/NQYubCmqkPxlAMkstUrBt/374396728b6ec5764398ba897041fefa/Emily_Johnson-Haug.jpeg"
+  desc: Special Events Manager, USA Triathlon
+  hex_color: 001f3f
+- sys:
+    id: 3twEuV929m1QPbCViI9kJH
+    created_at: !ruby/object:DateTime 2020-02-05 17:09:36.286000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:21:58.630000000 Z
+    content_type_id: mvpTestimonial
+    revision: 3
+  name: Chris Antonious
+  quote: "“MVP Access was a difference maker as I was moving up in my career.  It
+    is such a small investment that has paid off big in my career.  I’m a 4-time TeamWork
+    Online hire.” "
+  image:
+    sys:
+      id: 5XG2E0jXq8nsKVSWgCt988
+      created_at: !ruby/object:DateTime 2020-02-11 20:21:50.597000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-11 20:21:50.597000000 Z
+    title: chris-antonious
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5XG2E0jXq8nsKVSWgCt988/cf484fc3dff57589efd9b71038c41bd8/Chris_Antonious.jpeg"
+  desc: President, Vitae Sports & Entertainment
+  hex_color: ff851b
+- sys:
+    id: 5uHhWRqQpjsQKSd6It37jC
+    created_at: !ruby/object:DateTime 2020-01-22 18:04:55.966000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:20:05.344000000 Z
+    content_type_id: mvpTestimonial
+    revision: 6
+  name: Anthony Tate
+  quote: '"I got MVP Access and got the phone call right away.  MVP Access made the
+    hiring process much, much shorter."'
+  image:
+    sys:
+      id: 2nHXQRonQv7RGMQVgp831f
+      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
+    title: anthony
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+  desc: Manager of Ticketing, Chicagoland Speedway
+  hex_color: '002244'
+mvpTestimonialHeading:
+- sys:
+    id: 6YEalbPZzfZb7sxZU1NWZt
+    created_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-11 20:27:14.411000000 Z
+    content_type_id: mvpTestimonialHeading
+    revision: 2
+  title: Loved by over 6,000 hired MVP Access users
 mvpFeatureCard:
 - sys:
     id: rmdD3RNi5tcVtWrGkGqRY
@@ -174,126 +300,6 @@ unorderedList:
   desc: Get the word out through our daily email marketing searching 5.8M profiles,
     SEO-coded high ranking job description pages, custom webpages that mirror employer’s
     websites, social media and direct marketing to diverse candidates
-mvpTestimonial:
-- sys:
-    id: 3twEuV929m1QPbCViI9kJH
-    created_at: !ruby/object:DateTime 2020-02-05 17:09:36.286000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:10:44.401000000 Z
-    content_type_id: mvpTestimonial
-    revision: 2
-  name: Madelyn Glista (1)
-  quote: 'I think that having MVP Access helped me tremendously in getting my internship
-    because it put my name higher up in the candidate pool. '
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
-    Foundation '
-  hex_color: ff851b
-- sys:
-    id: 5KxRfhcUtg7YhIOk6lULnU
-    created_at: !ruby/object:DateTime 2020-02-05 17:09:40.128000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:10:37.812000000 Z
-    content_type_id: mvpTestimonial
-    revision: 2
-  name: Madelyn Glista (2)
-  quote: 'I think that having MVP Access helped me tremendously in getting my internship
-    because it put my name higher up in the candidate pool. '
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
-    Foundation '
-  hex_color: 001f3f
-- sys:
-    id: 12LaFXtT66QXjUGmJGn256
-    created_at: !ruby/object:DateTime 2020-02-05 17:09:43.153000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:10:25.548000000 Z
-    content_type_id: mvpTestimonial
-    revision: 2
-  name: Madelyn Glista (3)
-  quote: 'I think that having MVP Access helped me tremendously in getting my internship
-    because it put my name higher up in the candidate pool. '
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
-    Foundation '
-  hex_color: f012be
-- sys:
-    id: 4UE2hU31cvNlgH1Klahcfd
-    created_at: !ruby/object:DateTime 2020-01-22 18:09:11.355000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:07:58.495000000 Z
-    content_type_id: mvpTestimonial
-    revision: 4
-  name: Madelyn Glista
-  quote: 'I think that having MVP Access helped me tremendously in getting my internship
-    because it put my name higher up in the candidate pool. '
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: 'Student at Duquesne University & Community Relations Intern, Pittsburgh Penguins
-    Foundation '
-  hex_color: 006BB6
-- sys:
-    id: EeHwb4RSiufXopsLdRixN
-    created_at: !ruby/object:DateTime 2020-01-22 18:06:57.796000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:07:45.525000000 Z
-    content_type_id: mvpTestimonial
-    revision: 4
-  name: Joseph Redmond
-  quote: Being able to have my resume viewed first as well as knowing how many people
-    I was up against really helped me during the hiring process with NYCFC.
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: 'Senior Manager, Ticket Sales, NYCFC '
-  hex_color: CE1141
-- sys:
-    id: 5uHhWRqQpjsQKSd6It37jC
-    created_at: !ruby/object:DateTime 2020-01-22 18:04:55.966000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 17:07:27.714000000 Z
-    content_type_id: mvpTestimonial
-    revision: 4
-  name: Anthony Tate
-  quote: MVP Access is the best in the business. I graduated from Ohio University
-    this past spring and started to apply to jobs and I’m sure because of MVP Access
-    I got the phone call from my current employer.
-  image:
-    sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
-  desc: Ticket Sales Manager, Chicagoland Speedway
-  hex_color: '002244'
 mvpHeader:
 - sys:
     id: 2RWIXBPoa1aZXHsDpgxJ1V
@@ -903,14 +909,6 @@ atsProduct:
   title: TextTender
   desc: Recommend text to engage future applicants and avoid implicit bias on your
     job description wording.
-mvpTestimonialHeading:
-- sys:
-    id: 6YEalbPZzfZb7sxZU1NWZt
-    created_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-22 18:17:10.762000000 Z
-    content_type_id: mvpTestimonialHeading
-    revision: 1
-  title: Loved by over 12,000 people
 mvpFeatureHeading:
 - sys:
     id: 48UPoxiSVATM8lbtCYDTG

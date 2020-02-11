@@ -128,7 +128,7 @@ center center;">
 {% for item in mvpTestimonial %}
 <div class="flex-auto md-col-3 mx2 wow fadeInUp card-shadow my2" data-wow-delay="0.3s">
 <div class="bg-black col-12 px2 py3 flex-none" style="background-color: #{{ item.hex_color }};">
-<h3 class="oswald line-height-4 ltr-spacing-2 h4 m0 regular white">"{{ item.quote }}"</h3>
+<h3 class="oswald line-height-4 ltr-spacing-2 h4 m0 regular white">{{ item.quote }}</h3>
 </div>
 <div class="col-12 bg-white px2 py3 flex-auto">
 <div class="flex items-center">
