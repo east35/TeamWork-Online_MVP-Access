@@ -1,4 +1,179 @@
 ---
+mvpFeatureCard:
+- sys:
+    id: rmdD3RNi5tcVtWrGkGqRY
+    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-10 20:05:23.477000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 6
+  icon:
+    sys:
+      id: O0q30Xow0kJV3wUFuH2ei
+      created_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
+    title: icon - tips
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/O0q30Xow0kJV3wUFuH2ei/70b1283e24d588627c27689ec909c33a/icon_-_tips.svg"
+  name: Industry Information & Professional Tips
+  desc: Let us help make you a better potential employee. Learn from employers, online
+    hires, and our founder, Buffy Filippell, how to present yourself better.
+  order: 3
+  image:
+    sys:
+      id: aRuupstS8hSXczgRkgDrj
+      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+    title: MVP - Features 03
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/aRuupstS8hSXczgRkgDrj/ab22dd7ccf09089801f77bca96999aac/MVP_-_Features_03.png"
+  hex: FCF5F4
+- sys:
+    id: 3MM5iFHytTKeKW7VIn6gt3
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-10 19:38:08.529000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 5
+  icon:
+    sys:
+      id: 2y4C8QJwEeWFk0nEbC5eob
+      created_at: !ruby/object:DateTime 2020-02-10 19:37:12.224000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:04:52.016000000 Z
+    title: icon - viewed
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2y4C8QJwEeWFk0nEbC5eob/5a16f7735b78163b54583ac92d952842/icon_-_viewed.svg"
+  name: Know When Your Application Is Viewed
+  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
+    application. '
+  order: 2
+  image:
+    sys:
+      id: FMczjW8btW5W9jzGJgWcW
+      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+    title: MVP - Features 02
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/FMczjW8btW5W9jzGJgWcW/61fa68e072b6e71bfbc8e2c961dea8e9/MVP_-_Features_02.png"
+  hex: F3F8FD
+- sys:
+    id: 4ySziV13yxn7PtJXXh3qH7
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-10 19:16:30.980000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 7
+  icon:
+    sys:
+      id: kSraCibI9H5VjxUBfWSFc
+      created_at: !ruby/object:DateTime 2020-02-10 18:53:45.074000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:04:13.947000000 Z
+    title: icon - to top
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/kSraCibI9H5VjxUBfWSFc/15d5c0a8a9178d6492294dff4e0fd347/icon_-_to_top.svg"
+  name: Move to the top of the recruiter's list
+  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
+    to the top of their list. '
+  order: 1
+  image:
+    sys:
+      id: 5wuGLDJoM4lZ3pImDH44q9
+      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.684000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.684000000 Z
+    title: MVP - Features 01
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5wuGLDJoM4lZ3pImDH44q9/df8240ea307b5cad66b1553d255b8dc7/MVP_-_Features_01.png"
+  hex: f4fcf9
+recruitingToolsPage:
+- sys:
+    id: qG8NTI8nZM5l5MwiKlGDP
+    created_at: !ruby/object:DateTime 2019-11-27 16:57:00.213000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-06 19:43:38.569000000 Z
+    content_type_id: recruitingToolsPage
+    revision: 21
+  image:
+    sys:
+      id: 29hvzLji4GevwnSSAbhmE5
+      created_at: !ruby/object:DateTime 2020-02-06 19:34:56.854000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-06 19:34:56.854000000 Z
+    title: tools
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/29hvzLji4GevwnSSAbhmE5/ecf35d47ff171859db6681593641218a/tools.png"
+  title: TeamWork Recruiter
+  desc: Let our proprietary recruiting system to do the recruiting for you
+  cta: Contact us about an annual license
+  sub_header: We attract highly-skilled diverse candidates through on-going relationships,
+    personal emails, public announcements,  face-to-face networking and an internal
+    professional network.
+  colleges: The Pipeline starts
+  colleges_title: With weekly Career Counseling to students in 300+ Sport and Business
+    Programs.
+unorderedList:
+- sys:
+    id: 20ptreeeDLYnH08SitSNrk
+    created_at: !ruby/object:DateTime 2019-11-27 16:51:29.219000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-06 14:47:25.018000000 Z
+    content_type_id: unorderedList
+    revision: 6
+  image:
+    sys:
+      id: 5TEclQaVvENWygvSVIoUza
+      created_at: !ruby/object:DateTime 2020-02-05 16:13:47.334000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-05 16:13:47.334000000 Z
+    title: mega-phone
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5TEclQaVvENWygvSVIoUza/ed7fbc2c143598e73f03cb7cdd27070e/mega-phone.svg"
+  title: Engage face to face with your candidates
+  desc: Our 70+ events bring candidates directly to the employers
+- sys:
+    id: 7EofBsMHTtIfLHyvkZ3nqn
+    created_at: !ruby/object:DateTime 2019-11-27 16:50:34.718000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:49:03.142000000 Z
+    content_type_id: unorderedList
+    revision: 8
+  image:
+    sys:
+      id: 3qZ9xFgCMTg5FW4A2OvojR
+      created_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
+    title: users-alt-3
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/3qZ9xFgCMTg5FW4A2OvojR/2d18a15fdcca25648efdada2e66077d0/users-alt-3.svg"
+  title: 'Collective Recruiting '
+  desc: 10,000 hiring managers from 900+ big brand employers constantly attract, mark
+    and vet candidates onto the platform.
+- sys:
+    id: 7MvsqmDcWDsusBDOXKreTB
+    created_at: !ruby/object:DateTime 2019-11-27 16:50:53.343000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:48:31.831000000 Z
+    content_type_id: unorderedList
+    revision: 6
+  image:
+    sys:
+      id: 4hRQR4FfYROZ59cofE4JD8
+      created_at: !ruby/object:DateTime 2019-11-27 16:50:51.312000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:50:51.312000000 Z
+    title: flag
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/4hRQR4FfYROZ59cofE4JD8/0aa389958b8360e2e9df0ec682c581b9/flag.svg"
+  title: Build the right matching technology
+  desc: Our Profile Builder, Job Applications and internal Professional Network match
+    the candidate’s skills to the employer’s needs
+- sys:
+    id: 7iHUu7kkXGUpe5me1oMXhj
+    created_at: !ruby/object:DateTime 2019-11-27 16:51:09.076000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-25 02:47:58.958000000 Z
+    content_type_id: unorderedList
+    revision: 3
+  image:
+    sys:
+      id: 5mO2JYwekZs1Q6d3IEwTEH
+      created_at: !ruby/object:DateTime 2019-11-27 16:51:07.409000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-27 16:51:07.409000000 Z
+    title: search-1
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/5mO2JYwekZs1Q6d3IEwTEH/9b6aa05a3bd433dcd00fd1b43e4aa30c/search-1.svg"
+  title: Highly discoverable jobs
+  desc: Get the word out through our daily email marketing searching 5.8M profiles,
+    SEO-coded high ranking job description pages, custom webpages that mirror employer’s
+    websites, social media and direct marketing to diverse candidates
 mvpTestimonial:
 - sys:
     id: 3twEuV929m1QPbCViI9kJH
@@ -134,61 +309,6 @@ mvpHeader:
   monthly_fee: '5'
   activation_fee: '59.99'
   todays_total: '64.99'
-mvpFeatureCard:
-- sys:
-    id: 3MM5iFHytTKeKW7VIn6gt3
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 16:15:40.991000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 3
-  image:
-    sys:
-      id: 22e7B4pks4O44AvNKufWGZ
-      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
-    title: '2'
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/22e7B4pks4O44AvNKufWGZ/3648f2fd000c44cdd7cb50422d35ec41/2.svg"
-  name: Know When Your Application Is Viewed
-  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
-    application. '
-  order: 2
-- sys:
-    id: 4ySziV13yxn7PtJXXh3qH7
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 16:15:32.105000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 3
-  image:
-    sys:
-      id: 5xCPA3at9TvnLAdyzXC8eT
-      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.867000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.867000000 Z
-    title: '3'
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/5xCPA3at9TvnLAdyzXC8eT/9776dc3c7d1739ff8a3ce27da46745ca/3.svg"
-  name: Move to the top of the recruiter's list
-  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
-    to the top of their list. '
-  order: 3
-- sys:
-    id: rmdD3RNi5tcVtWrGkGqRY
-    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-05 16:15:26.800000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 3
-  image:
-    sys:
-      id: F0FD8AHnyI6hyg0MsIidC
-      created_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-05 16:12:08.860000000 Z
-    title: '1'
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/F0FD8AHnyI6hyg0MsIidC/8bcbd97dadc84780adbceed26a8f4927/1.svg"
-  name: Industry Information & Professional Tips
-  desc: Let us help make you a better potential employee. Learn from employers, online
-    hires, and our founder, Buffy Filippell, how to present yourself better.
-  order: 1
 productLink:
 - sys:
     id: 2fDRWXvLvYgOTcZydqy6o7
@@ -732,72 +852,6 @@ atsPage:
     description: 
     url: "//images.ctfassets.net/utl7jk5xzwje/4IzmknZhK2eggDjhuZxMZc/ee852baf1f9d311129a5468ec8b33b01/laptop-tablet-combo.jpg"
   cta: Contact us about an annual license
-unorderedList:
-- sys:
-    id: 7EofBsMHTtIfLHyvkZ3nqn
-    created_at: !ruby/object:DateTime 2019-11-27 16:50:34.718000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-25 02:49:03.142000000 Z
-    content_type_id: unorderedList
-    revision: 8
-  image:
-    sys:
-      id: 3qZ9xFgCMTg5FW4A2OvojR
-      created_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:40:22.874000000 Z
-    title: users-alt-3
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/3qZ9xFgCMTg5FW4A2OvojR/2d18a15fdcca25648efdada2e66077d0/users-alt-3.svg"
-  title: 'Collective Recruiting '
-  desc: 10,000 hiring managers from 900+ big brand employers constantly attract, mark
-    and vet candidates onto the platform.
-- sys:
-    id: 7MvsqmDcWDsusBDOXKreTB
-    created_at: !ruby/object:DateTime 2019-11-27 16:50:53.343000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-25 02:48:31.831000000 Z
-    content_type_id: unorderedList
-    revision: 6
-  image:
-    sys:
-      id: 4hRQR4FfYROZ59cofE4JD8
-      created_at: !ruby/object:DateTime 2019-11-27 16:50:51.312000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:50:51.312000000 Z
-    title: flag
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/4hRQR4FfYROZ59cofE4JD8/0aa389958b8360e2e9df0ec682c581b9/flag.svg"
-  title: Build the right matching technology
-  desc: Our Profile Builder, Job Applications and internal Professional Network match
-    the candidate’s skills to the employer’s needs
-- sys:
-    id: 7iHUu7kkXGUpe5me1oMXhj
-    created_at: !ruby/object:DateTime 2019-11-27 16:51:09.076000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-25 02:47:58.958000000 Z
-    content_type_id: unorderedList
-    revision: 3
-  image:
-    sys:
-      id: 5mO2JYwekZs1Q6d3IEwTEH
-      created_at: !ruby/object:DateTime 2019-11-27 16:51:07.409000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:51:07.409000000 Z
-    title: search-1
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/5mO2JYwekZs1Q6d3IEwTEH/9b6aa05a3bd433dcd00fd1b43e4aa30c/search-1.svg"
-  title: Highly discoverable jobs
-  desc: Get the word out through our daily email marketing searching 5.8M profiles,
-    SEO-coded high ranking job description pages, custom webpages that mirror employer’s
-    websites, social media and direct marketing to diverse candidates
-- sys:
-    id: 20ptreeeDLYnH08SitSNrk
-    created_at: !ruby/object:DateTime 2019-11-27 16:51:29.219000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-17 12:54:56.190000000 Z
-    content_type_id: unorderedList
-    revision: 5
-  image:
-    sys:
-      type: Link
-      linkType: Asset
-      id: mSmIQNy05gkwvqhMCjhkR
-  title: Engage face to face with your candidates
-  desc: Our 70+ events bring candidates directly to the employers
 atsProduct:
 - sys:
     id: 4yKOWl39zwmB2Az3AXL4GF
@@ -898,30 +952,6 @@ calculator:
   savings_title: Premium Savings
   help: Total students x $89.99 (MVP price per student) - $1200 (licensing fee) =
     Total Premium Savings
-recruitingToolsPage:
-- sys:
-    id: qG8NTI8nZM5l5MwiKlGDP
-    created_at: !ruby/object:DateTime 2019-11-27 16:57:00.213000000 Z
-    updated_at: !ruby/object:DateTime 2020-01-17 13:25:27.023000000 Z
-    content_type_id: recruitingToolsPage
-    revision: 16
-  image:
-    sys:
-      id: 558wvyhUoAdBq4easYzFtW
-      created_at: !ruby/object:DateTime 2019-11-27 16:56:28.411000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-27 16:56:28.411000000 Z
-    title: tools
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/558wvyhUoAdBq4easYzFtW/155c8e2f0b2808163c6eae0b8d6e78f1/tools.png"
-  title: TeamWork Recruiter
-  desc: Let our proprietary recruiting system to do the recruiting for you
-  cta: Contact us about an annual license
-  sub_header: We attract highly-skilled diverse candidates through on-going relationships,
-    personal emails, public announcements,  face-to-face networking and an internal
-    professional network.
-  colleges: The Pipeline starts
-  colleges_title: With weekly Career Counseling to students in 300+ Sport and Business
-    Programs.
 testimonial:
 - sys:
     id: 1Rc5vQHAE453GpJM6t865o

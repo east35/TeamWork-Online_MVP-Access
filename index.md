@@ -24,7 +24,7 @@ cta:
     </div>
   </div>
   <div class="col-12 md-col-5 mx-auto">
-    <div class="bg-white card-shadow p3" style="border-radius: 6px;">
+    <div class="bg-white card-shadow p3">
       <p class="regular black p">Enter your payment details<img src="/images/icons/lock.svg" style="height: 18px; position: relative; top: 2px;" class="pl1"></p>
       <div class="flex flex-wrap">
       <div style="width: 100%; margin: 0 auto;"><div class="card-wrapper mt2 mb3"></div></div>
@@ -61,36 +61,63 @@ cta:
         <img src="/images/secure-payments.jpg" style="height: 56px;">
       </div>
       <a href="#" class="white oswald caps center semibold h4  ltr-spacing-2 text-decoration-none" >
-      <div class="bg-gray py2" style="border-radius: 6px;">Upgrade to mvp access</div>
+      <div class="bg-gray py2">Upgrade to mvp access</div>
       </a>
     </div>
   </div>
 </div>
 </section>
  
-<section class="bg-black py4 cut" style="background-image: url(images/basketball-texture.jpg); background-size: cover; background-repeat: no-repeat; background-position:
-center center; -webkit-clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
-clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);">
-<div class="container mx-auto">
+<section class="bg-black py4">
+<div class="mx-auto">
 {% assign item = site.data.posts.mvpFeatureHeading[0] %}
-<h3 class="white h3 oswald caps center pt4 pb2">{{ item.title }}</h3>
-<div class="flex flex-wrap center">
+<h2 class="white h2 oswald caps center pt4 pb2">{{ item.title }}</h2>
+<div class="flex flex-wrap container mx-auto">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
-<div class="text-decoration-none flex flex-column p2 col-12 md-col-4 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
-<div class="flex-auto px3 pt3 card-shadow bg-white"  >
-<img src="{{ item.image.url }}" style= "width: 44px;">
-<h2 class="oswald black mb2 line-height-2">{{ item.name }}</h2>
-<p class="line-height-4 p pb1 mb3 regular black">{{ item.desc }}</p>
+<div class="text-decoration-none flex items-center p2 wow fadeInUp my4" data-wow-delay="0.2s"  style="order:{{ item.order }};">
+<div class="col-12 md-col-4 mx-auto py4 {% cycle '' , 'order-last' %}">
+<img src="{{ item.icon.url }}" style= "width: 44px;">
+<h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
+<p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>
+<p class="mx-auto">
+{% include cta.html inverted=true %}
+</p>
+</div>
+<div class="col-12 md-col-7 mx-auto">
+<img src="{{ item.image.url }}" style= "width: 100%;" class="right">
 </div>
 </div>
 {% endfor %}
 </div>
-<p class="center mx-auto py4">
+</div>
+</section>
+
+<!-- <section class="bg-black py4" style="background-image: url(images/basketball-texture.jpg); background-size: cover; background-repeat: no-repeat; background-position:
+center center;">
+<div class="mx-auto">
+{% assign item = site.data.posts.mvpFeatureHeading[0] %}
+<h2 class="white h2 oswald caps center pt4 pb2">{{ item.title }}</h2>
+<div class="flex flex-wrap container mx-auto ">
+{% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
+{% for item in mvpFeatureCard %}
+<div class="text-decoration-none flex items-center wow fadeInUp my2" data-wow-delay="0.2s"  style="order:{{ item.order }};">
+<div class="col-12 md-col-4 mx-auto py4 {% cycle '' , 'order-last' %}">
+<img src="{{ item.icon.url }}" style= "width: 44px;">
+<h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
+<p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>
+<p class="mx-auto">
 {% include cta.html inverted=true %}
 </p>
 </div>
-</section>
+<div class="col-12 md-col-7 mx-auto">
+<img src="{{ item.image.url }}" style= "width: 100%;" class="right">
+</div>
+</div>
+{% endfor %}
+</div>
+</div>
+</section> -->
 
 <section class="py4">
 <div class="container mx-auto">
