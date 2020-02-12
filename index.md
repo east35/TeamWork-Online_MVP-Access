@@ -10,12 +10,12 @@ cta:
 {% assign item = site.data.posts.mvpHeader[0] %}
 
 <section class="container mx-auto py4 my4">
-<div class="flex">
+<div class="flex flex-wrap mt4">
   <div class="col-12 md-col-5 pr2 mx-auto">
     <img src="/images/mvp-access-logo.svg" class="mb2">
     <h1 class="oswald line-height-2 h1 black caps m0">{{ item.header_title }}</h1>
     <h4 class="line-height-4 h4 my3 regular gray7 mx-auto pl2" style="border-left: 3px solid">{{ item.header_desc }} </h4>
-    <div class="black mvp-total px3 py1">
+    <div class="black mvp-total px3 py1 mb2">
       <h3 class="black">Order Summary</h3>
       <p>Monthy subscription<span class="p right">${{ item.monthly_fee }}</span></p>
       <p>One-time activation fee<span class="p right">${{ item.activation_fee }}</span></p>
@@ -23,7 +23,7 @@ cta:
       <p class="p bold">Today's Total<span class="p right bold">${{ item.todays_total }}</span></p>
     </div>
   </div>
-  <div class="col-12 md-col-5 mx-auto">
+  <div class="col-12 md-col-5 mx-auto" id="payment">
     <div class="bg-white card-shadow p3">
       <p class="regular black p">Enter your payment details<img src="/images/icons/lock.svg" style="height: 18px; position: relative; top: 2px;" class="pl1"></p>
       <div class="flex flex-wrap">
@@ -71,11 +71,11 @@ cta:
 <section class="bg-black py4">
 <div class="mx-auto">
 {% assign item = site.data.posts.mvpFeatureHeading[0] %}
-<h2 class="white h2 oswald caps center pt4 pb2">{{ item.title }}</h2>
+<h2 class="white h2 oswald caps center pb2">{{ item.title }}</h2>
 <div class="flex flex-wrap container mx-auto">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
-<div class="text-decoration-none flex items-center p2 wow fadeInUp my4" data-wow-delay="0.2s"  style="order:{{ item.order }};">
+<div class="text-decoration-none flex flex-wrap items-center p2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
 <div class="col-12 md-col-4 mx-auto py4 {% cycle '' , 'order-last' %}">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
 <h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
