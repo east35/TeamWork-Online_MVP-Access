@@ -75,8 +75,8 @@ cta:
 <div class="flex flex-wrap container mx-auto">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
-<div class="text-decoration-none flex flex-wrap items-center p2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
-<div class="col-12 md-col-4 mx-auto py4 {% cycle '' , 'order-last' %}">
+<div class="text-decoration-none flex flex-wrap items-center p2 my2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
+<div class="col-12 md-col-4 mx-auto py4">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
 <h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>

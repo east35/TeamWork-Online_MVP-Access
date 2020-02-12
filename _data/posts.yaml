@@ -1,22 +1,101 @@
 ---
+mvpFeatureCard:
+- sys:
+    id: 3MM5iFHytTKeKW7VIn6gt3
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-12 18:40:56.564000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 7
+  icon:
+    sys:
+      id: 2y4C8QJwEeWFk0nEbC5eob
+      created_at: !ruby/object:DateTime 2020-02-10 19:37:12.224000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:04:52.016000000 Z
+    title: icon - viewed
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/2y4C8QJwEeWFk0nEbC5eob/5a16f7735b78163b54583ac92d952842/icon_-_viewed.svg"
+  name: Know When Your Application Is Viewed
+  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
+    application. '
+  order: 2
+  image:
+    sys:
+      id: FMczjW8btW5W9jzGJgWcW
+      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+    title: MVP - Features 02
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/FMczjW8btW5W9jzGJgWcW/61fa68e072b6e71bfbc8e2c961dea8e9/MVP_-_Features_02.png"
+- sys:
+    id: rmdD3RNi5tcVtWrGkGqRY
+    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-12 18:37:02.242000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 7
+  icon:
+    sys:
+      id: O0q30Xow0kJV3wUFuH2ei
+      created_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
+    title: icon - tips
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/O0q30Xow0kJV3wUFuH2ei/70b1283e24d588627c27689ec909c33a/icon_-_tips.svg"
+  name: Industry Information & Professional Tips
+  desc: Let us help make you a better potential employee. Learn from employers, online
+    hires, and our founder, Buffy Filippell, how to present yourself better.
+  order: 3
+  image:
+    sys:
+      id: aRuupstS8hSXczgRkgDrj
+      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-12 17:59:26.201000000 Z
+    title: MVP - Features 03
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/aRuupstS8hSXczgRkgDrj/edca62e99426580c93049b42a5020541/MVP_-_Features_03.png"
+- sys:
+    id: 4ySziV13yxn7PtJXXh3qH7
+    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-12 18:33:14.687000000 Z
+    content_type_id: mvpFeatureCard
+    revision: 9
+  icon:
+    sys:
+      id: kSraCibI9H5VjxUBfWSFc
+      created_at: !ruby/object:DateTime 2020-02-10 18:53:45.074000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-10 20:04:13.947000000 Z
+    title: icon - to top
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/kSraCibI9H5VjxUBfWSFc/15d5c0a8a9178d6492294dff4e0fd347/icon_-_to_top.svg"
+  name: Move to the top of the recruiter's list
+  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
+    to the top of their list. '
+  order: 1
+  image:
+    sys:
+      id: 1FiQqEJTrs6KcTZglL5ekA
+      created_at: !ruby/object:DateTime 2020-02-12 18:33:01.941000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-12 18:33:01.941000000 Z
+    title: MVP to the top
+    description: 
+    url: "//images.ctfassets.net/utl7jk5xzwje/1FiQqEJTrs6KcTZglL5ekA/b42df1efe84f2d7733beef194f93f543/MVP_-_To_the_top.png"
 mvpTestimonial:
 - sys:
     id: EeHwb4RSiufXopsLdRixN
     created_at: !ruby/object:DateTime 2020-01-22 18:06:57.796000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-11 20:55:43.902000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-12 18:03:19.954000000 Z
     content_type_id: mvpTestimonial
-    revision: 5
+    revision: 6
   name: Joseph Redmond
   quote: '"Being able to have my resume viewed first as well as knowing how many people
     I was up against really helped me during the hiring process with NYCFC."'
   image:
     sys:
-      id: 2nHXQRonQv7RGMQVgp831f
-      created_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-      updated_at: !ruby/object:DateTime 2019-12-09 17:36:15.806000000 Z
-    title: anthony
+      id: hGE9x33DoPmrmcILBTMno
+      created_at: !ruby/object:DateTime 2020-02-12 18:02:17.965000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-12 18:02:17.965000000 Z
+    title: Joseph Redmon
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2nHXQRonQv7RGMQVgp831f/3fbbc323f89abe953b092abd00f50e45/anthony.jpg"
+    url: "//images.ctfassets.net/utl7jk5xzwje/hGE9x33DoPmrmcILBTMno/589ec8c0b1d4e7c3adb4e1b07b6db66f/joe.jpg"
   desc: 'Senior Manager, Ticket Sales, NYCFC '
   hex_color: CE1141
 - sys:
@@ -66,88 +145,6 @@ mvpTestimonialHeading:
     content_type_id: mvpTestimonialHeading
     revision: 2
   title: Loved by over 6,000 hired MVP Access users
-mvpFeatureCard:
-- sys:
-    id: rmdD3RNi5tcVtWrGkGqRY
-    created_at: !ruby/object:DateTime 2020-01-22 17:52:59.906000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-10 20:05:23.477000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 6
-  icon:
-    sys:
-      id: O0q30Xow0kJV3wUFuH2ei
-      created_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 20:05:10.191000000 Z
-    title: icon - tips
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/O0q30Xow0kJV3wUFuH2ei/70b1283e24d588627c27689ec909c33a/icon_-_tips.svg"
-  name: Industry Information & Professional Tips
-  desc: Let us help make you a better potential employee. Learn from employers, online
-    hires, and our founder, Buffy Filippell, how to present yourself better.
-  order: 3
-  image:
-    sys:
-      id: aRuupstS8hSXczgRkgDrj
-      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
-    title: MVP - Features 03
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/aRuupstS8hSXczgRkgDrj/ab22dd7ccf09089801f77bca96999aac/MVP_-_Features_03.png"
-  hex: FCF5F4
-- sys:
-    id: 3MM5iFHytTKeKW7VIn6gt3
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:48.565000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-10 19:38:08.529000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 5
-  icon:
-    sys:
-      id: 2y4C8QJwEeWFk0nEbC5eob
-      created_at: !ruby/object:DateTime 2020-02-10 19:37:12.224000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 20:04:52.016000000 Z
-    title: icon - viewed
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/2y4C8QJwEeWFk0nEbC5eob/5a16f7735b78163b54583ac92d952842/icon_-_viewed.svg"
-  name: Know When Your Application Is Viewed
-  desc: 'MVP Access allows you to know the exact moment when a recruiter checks your
-    application. '
-  order: 2
-  image:
-    sys:
-      id: FMczjW8btW5W9jzGJgWcW
-      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.681000000 Z
-    title: MVP - Features 02
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/FMczjW8btW5W9jzGJgWcW/61fa68e072b6e71bfbc8e2c961dea8e9/MVP_-_Features_02.png"
-  hex: F3F8FD
-- sys:
-    id: 4ySziV13yxn7PtJXXh3qH7
-    created_at: !ruby/object:DateTime 2020-01-22 17:51:06.340000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-10 19:16:30.980000000 Z
-    content_type_id: mvpFeatureCard
-    revision: 7
-  icon:
-    sys:
-      id: kSraCibI9H5VjxUBfWSFc
-      created_at: !ruby/object:DateTime 2020-02-10 18:53:45.074000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 20:04:13.947000000 Z
-    title: icon - to top
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/kSraCibI9H5VjxUBfWSFc/15d5c0a8a9178d6492294dff4e0fd347/icon_-_to_top.svg"
-  name: Move to the top of the recruiter's list
-  desc: 'As recruiters are looking for their ideal candidate, MVP Access puts you
-    to the top of their list. '
-  order: 1
-  image:
-    sys:
-      id: 5wuGLDJoM4lZ3pImDH44q9
-      created_at: !ruby/object:DateTime 2020-02-10 18:51:35.684000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-10 18:51:35.684000000 Z
-    title: MVP - Features 01
-    description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/5wuGLDJoM4lZ3pImDH44q9/df8240ea307b5cad66b1553d255b8dc7/MVP_-_Features_01.png"
-  hex: f4fcf9
 recruitingToolsPage:
 - sys:
     id: qG8NTI8nZM5l5MwiKlGDP
