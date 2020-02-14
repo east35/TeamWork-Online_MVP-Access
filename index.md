@@ -70,8 +70,7 @@ cta:
  
 <section class="bg-black py4">
 <div class="mx-auto">
-{% assign item = site.data.posts.mvpFeatureHeading[0] %}
-<h2 class="white h2 oswald caps center pb2">{{ item.title }}</h2>
+<h2 class="white h2 oswald caps center pb2">The three things you need to succeed</h2>
 <div class="flex flex-wrap container mx-auto">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
@@ -91,33 +90,21 @@ cta:
 {% endfor %}
 </div>
 </div>
-</section>
-
-<!-- <section class="bg-black py4" style="background-image: url(images/basketball-texture.jpg); background-size: cover; background-repeat: no-repeat; background-position:
-center center;">
-<div class="mx-auto">
-{% assign item = site.data.posts.mvpFeatureHeading[0] %}
-<h2 class="white h2 oswald caps center pt4 pb2">{{ item.title }}</h2>
-<div class="flex flex-wrap container mx-auto ">
-{% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
-{% for item in mvpFeatureCard %}
-<div class="text-decoration-none flex items-center wow fadeInUp my2" data-wow-delay="0.2s"  style="order:{{ item.order }};">
-<div class="col-12 md-col-4 mx-auto py4 {% cycle '' , 'order-last' %}">
+<div class="center white my4 pt4">
+<h2 class="bold oswald caps white mb2 line-height-2 h2">Additional Benefits</h2>
+<p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">Take advantage of our always-improving MVP benefits</p>
+</div>
+<div class="flex flex-wrap container mx-auto pb4">
+{% assign mvpFeatureHeading = site.data.posts.mvpFeatureHeading | sort: 'sort' %}
+{% for item in mvpFeatureHeading %}
+<div class="col-12 md-col-4 mx-auto px2" style="order:{{ item.order }};">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
-<h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
+<h3 class="bold white mb2 line-height-2">{{ item.title }}</h3>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>
-<p class="mx-auto">
-{% include cta.html inverted=true %}
-</p>
-</div>
-<div class="col-12 md-col-7 mx-auto">
-<img src="{{ item.image.url }}" style= "width: 100%;" class="right">
-</div>
 </div>
 {% endfor %}
 </div>
-</div>
-</section> -->
+</section>
 
 <section class="py4">
 <div class="container mx-auto">
