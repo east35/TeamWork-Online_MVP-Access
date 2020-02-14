@@ -499,10 +499,10 @@ mvpFeatureCard:
     sys:
       id: 1FiQqEJTrs6KcTZglL5ekA
       created_at: !ruby/object:DateTime 2020-02-12 18:33:01.941000000 Z
-      updated_at: !ruby/object:DateTime 2020-02-13 17:02:13.430000000 Z
+      updated_at: !ruby/object:DateTime 2020-02-14 19:03:30.841000000 Z
     title: MVP to the top
     description: 
-    url: "//images.ctfassets.net/utl7jk5xzwje/1FiQqEJTrs6KcTZglL5ekA/5192f352f23a65cfcbabde103d8bdc9e/MVP_-_To_the_top.png"
+    url: "//images.ctfassets.net/utl7jk5xzwje/1FiQqEJTrs6KcTZglL5ekA/ac74a0a692e43000ded5ead698ccf6f4/MVP_-_To_the_top.png"
 mvpTestimonial:
 - sys:
     id: EeHwb4RSiufXopsLdRixN
