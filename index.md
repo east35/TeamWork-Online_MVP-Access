@@ -23,7 +23,7 @@ cta:
       <p class="p bold">Today's Total<span class="p right bold">${{ item.todays_total }}</span></p>
     </div>
   </div>
-  <div class="col-12 md-col-5 mx-auto" id="payment">
+  <div class="col-12 md-col-6 mx-auto" id="payment">
     <div class="bg-white card-shadow p3">
       <p class="regular black p">Enter your payment details<img src="/images/icons/lock.svg" style="height: 18px; position: relative; top: 2px;" class="pl1"></p>
       <div class="flex flex-wrap">
@@ -78,7 +78,7 @@ cta:
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
 <div class="text-decoration-none flex flex-wrap items-center px2 pb4 my2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
-<div class="col-12 md-col-4 mx-auto mvp-feature-order">
+<div class="col-12 md-col-4 mx-auto mvp-feature">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
 <h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>
@@ -100,7 +100,7 @@ cta:
 <div class="flex flex-wrap container mx-auto py4">
 {% assign mvpFeatureHeading = site.data.posts.mvpFeatureHeading | sort: 'sort' %}
 {% for item in mvpFeatureHeading %}
-<div class="col-12 md-col-4 mx-auto px2" style="order:{{ item.order }};">
+<div class="col-12 md-col-4 mx-auto px2 additional-benefits" style="order:{{ item.order }};">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
 <h3 class="bold white mb2 line-height-2">{{ item.title }}</h3>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>

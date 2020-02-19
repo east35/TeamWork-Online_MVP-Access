@@ -23,7 +23,8 @@ headroom{will-change:transform background;transition:transform 200ms linear, bac
 .text-decoration-none{text-decoration: none;}
 .split-background{background: linear-gradient(90deg, #AAABAA 50%, #AAABAA 50%, #3A4044 50%);}
 .letter-spacing-2{letter-spacing: .2rem;}
-@media (max-width: 52em){.split-background {background: #AAABAA;}.mvp-feature-order {order:2;}}
+@media (max-width: 52em){.split-background {background: #AAABAA;}.mvp-feature {order:2;text-align: center;padding-top: 2rem;margin-bottom: 2rem;} .additional-benefits {text-align: center;
+    max-width: 460px;}}
 
 
 .input {padding: 8px 5px 8px 13px;border: 1px solid #bdc4c9;width: 100%;margin: 2px 0 5px; border-radius: 3px;}
