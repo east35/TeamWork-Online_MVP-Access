@@ -12,7 +12,7 @@ cta:
 <section class="container mx-auto py4 my4">
 <div class="flex flex-wrap mt4">
   <div class="col-12 md-col-5 pr2 mx-auto">
-    <img src="/images/mvp-access-logo.svg" class="mb2">
+    <img src="{{ item.logo.url }}" class="mb2" style="width: 160px;">
     <h1 class="oswald line-height-2 h1 black caps m0">{{ item.header_title }}</h1>
     <h4 class="line-height-4 h4 my3 regular gray7 mx-auto pl2" style="border-left: 3px solid">{{ item.header_desc }} </h4>
     <div class="black mvp-total px3 py1 mb2">
@@ -59,6 +59,9 @@ cta:
 </div>
       <div class="center py2">
         <img src="/images/secure-payments.jpg" style="height: 56px;">
+        <a href="#" class="white oswald caps center semibold h4  ltr-spacing-2 text-decoration-none" >
+      <div class="py2"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Check out with PayPal" /></div>
+      </a>
       </div>
       <a href="#" class="white oswald caps center semibold h4  ltr-spacing-2 text-decoration-none" >
       <div class="bg-gray py2">Upgrade to mvp access</div>
@@ -74,8 +77,8 @@ cta:
 <div class="flex flex-wrap container mx-auto">
 {% assign mvpFeatureCard = site.data.posts.mvpFeatureCard | sort: 'sort' %}
 {% for item in mvpFeatureCard %}
-<div class="text-decoration-none flex flex-wrap items-center p2 my2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
-<div class="col-12 md-col-4 mx-auto py4">
+<div class="text-decoration-none flex flex-wrap items-center px2 pb4 my2 wow fadeInUp" data-wow-delay="0.2s"  style="order:{{ item.order }};">
+<div class="col-12 md-col-4 mx-auto mvp-feature-order">
 <img src="{{ item.icon.url }}" style= "width: 44px;">
 <h2 class="bold white mb2 line-height-2">{{ item.name }}</h2>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">{{ item.desc }}</p>
@@ -84,17 +87,17 @@ cta:
 </p>
 </div>
 <div class="col-12 md-col-7 mx-auto">
-<img src="{{ item.image.url }}" style= "width: 100%;" class="right">
+<img src="{{ item.image.url }}?fm=png&q=50" style= "width: 100%;" class="right">
 </div>
 </div>
 {% endfor %}
 </div>
 </div>
-<div class="center white my4 pt4">
+<div class="center white pt4 container mx-auto">
 <h2 class="bold oswald caps white mb2 line-height-2 h2">Additional Benefits</h2>
 <p class="line-height-4 p pb1 mb3 regular white" style="opacity:.75;">Take advantage of our always-improving MVP benefits</p>
 </div>
-<div class="flex flex-wrap container mx-auto pb4">
+<div class="flex flex-wrap container mx-auto py4">
 {% assign mvpFeatureHeading = site.data.posts.mvpFeatureHeading | sort: 'sort' %}
 {% for item in mvpFeatureHeading %}
 <div class="col-12 md-col-4 mx-auto px2" style="order:{{ item.order }};">
@@ -119,7 +122,7 @@ cta:
 </div>
 <div class="col-12 bg-white px2 py3 flex-auto">
 <div class="flex items-center">
-<div class="mr2 flex-none" style="background-image: url({{ item.image.url }}); background-size: cover; background-repeat: no-repeat; background-position: center; height: 64px; width: 64px;"></div>
+<div class="mr2 flex-none" style="background-image: url({{ item.image.url }}?fm=jpg&q=25); background-size: cover; background-repeat: no-repeat; background-position: center; height: 64px; width: 64px;"></div>
 <div class="flex-auto" style="order:{{ item.order }}">
 <p class="line-height-1 h5 regular mt0 mb1 black semibold">{{ item.name }}</p>
 <p class="line-height-4 h5 regular m0 muted">{{ item.desc }}</p>
