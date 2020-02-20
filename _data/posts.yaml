@@ -3,9 +3,9 @@ mvpHeader:
 - sys:
     id: 2RWIXBPoa1aZXHsDpgxJ1V
     created_at: !ruby/object:DateTime 2020-01-21 22:12:25.851000000 Z
-    updated_at: !ruby/object:DateTime 2020-02-19 16:59:12.082000000 Z
+    updated_at: !ruby/object:DateTime 2020-02-20 15:16:55.660000000 Z
     content_type_id: mvpHeader
-    revision: 7
+    revision: 8
   logo:
     sys:
       id: 2XXqJVxw7W1XFQT3zKdY4
@@ -16,9 +16,9 @@ mvpHeader:
     url: "//images.ctfassets.net/utl7jk5xzwje/2XXqJVxw7W1XFQT3zKdY4/d4861e2b27b2e079446751ead7e5241c/mvp-access.svg"
   header_title: Increase your chances of getting hired by 3X
   header_desc: |-
-    "We created MVP Access to offer job applicants coaching, education and tools that have raised candidates' chances of getting the job they want."
+    "We created MVP Access to help you get hired.  From the moment you start, you receive insider tools, coaching, and connections that help you stand out and land that job faster.  "
 
-    - Buffy Filippell, CEO of TeamWork Online
+    - Buffy Filippell, Founder and President of TeamWork Online
   monthly_fee: '5'
   activation_fee: '59.99'
   todays_total: '64.99'
